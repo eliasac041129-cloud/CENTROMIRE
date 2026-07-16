@@ -3,6 +3,7 @@
 import os, glob
 import markdown
 from weasyprint import HTML
+from _pdf_common import prep
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "PDFS")
@@ -43,7 +44,7 @@ for f in files:
     with open(f, encoding="utf-8") as fh:
         text = fh.read()
     md.reset()
-    body = md.convert(text)
+    body = md.convert(prep(text))
     html = f"""<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><style>{CSS}</style></head>
 <body><div class="brand">CENTRO MIRË · Blindaje COFEPRIS</div>{body}</body></html>"""
     base = os.path.splitext(os.path.basename(f))[0]

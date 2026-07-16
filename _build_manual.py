@@ -3,6 +3,7 @@
 import os, glob
 import markdown
 from weasyprint import HTML
+from _pdf_common import prep
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "PDFS")
@@ -88,7 +89,7 @@ for f in files:
         continue
     with open(f, encoding="utf-8") as fh:
         md.reset()
-        parts.append(f'<div class="doc">{md.convert(fh.read())}</div>')
+        parts.append(f'<div class="doc">{md.convert(prep(fh.read()))}</div>')
 
 html = f'<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><style>{CSS}</style></head><body>{"".join(parts)}</body></html>'
 out = os.path.join(OUT, "MANUAL_COMPLETO_CENTRO_MIRE.pdf")
