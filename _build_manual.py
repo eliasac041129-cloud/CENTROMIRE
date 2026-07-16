@@ -74,6 +74,7 @@ titles = {
  "11_PROTOCOLOS_HIGIENE_Y_LIMPIEZA": "Protocolos de Higiene y Limpieza",
  "12_POLITICA_Y_AVISO_AL_PUBLICO": "Política de Servicios y Aviso al Público",
  "13_GUIA_REDES_SOCIALES": "Guía de Redes Sociales",
+ "14_DICTAMEN_LEGAL_Y_PLAN_DE_ACCION": "Dictamen Legal y Plan de Acción",
 }
 
 files = [os.path.join(ROOT, "BLINDAJE_JURIDICO_CENTRO_MIRE.md")]

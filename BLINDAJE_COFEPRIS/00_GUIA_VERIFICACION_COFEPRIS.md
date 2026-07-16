@@ -146,3 +146,5 @@ Detectados en tus documentos y redes:
 | `10_BITACORA_SERVICIOS.md` | Bitácora diaria de servicios |
 | `11_PROTOCOLOS_HIGIENE_Y_LIMPIEZA.md` | POE de limpieza, desinfección y residuos |
 | `12_POLITICA_Y_AVISO_AL_PUBLICO.md` | Política de servicios y aviso visible |
+| `13_GUIA_REDES_SOCIALES.md` | Palabras permitidas/prohibidas para publicar |
+| `14_DICTAMEN_LEGAL_Y_PLAN_DE_ACCION.md` | Dictamen de suficiencia + plan de acción + trámites pendientes |
