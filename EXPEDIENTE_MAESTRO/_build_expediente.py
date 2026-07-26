@@ -92,9 +92,9 @@ TOMOS = [
     {
         "dir": "TOMO_4_PERSONAL",
         "pdf": "TOMO_4_PERSONAL.pdf",
-        "impresion": "Imprimir a doble cara. Los protocolos de urgencias y de visita de autoridad y la carta de compromiso inician hoja, porque se fijan a la vista o se archivan por separado.",
+        "impresion": "Imprimir a doble cara. Solo el protocolo de urgencias inicia hoja, porque se fija a la vista en el area de servicio.",
         "hoja_por_doc": False,
-        "hoja_nueva": ["04_protocolo_urgencias.md", "05_protocolo_visita_autoridad.md", "07_carta_compromiso.md"],
+        "hoja_nueva": ["04_protocolo_urgencias.md"],
         "label": "Tomo 4 · Personal",
         "titulo": "TOMO 4\nMANUAL DE OPERACIÓN DEL PERSONAL",
         "destinatario": "Personal y colaboradores",
@@ -128,6 +128,7 @@ TOMOS = [
         "dir": "TOMO_6_AVISOS_PUBLICO",
         "pdf": "TOMO_6_AVISOS_AL_PUBLICO.pdf",
         "portada": False,
+        "revisar_blancos": False,
         "impresion": "Imprimir a UNA CARA: cada aviso es una hoja independiente para fijar a la vista.",
         "hoja_por_doc": True,
         "label": "Tomo 6 · Avisos al público",
@@ -238,6 +239,7 @@ th, td {{
   vertical-align: top; line-height: 1.2;
 }}
 th {{ font-weight: bold; text-transform: uppercase; font-size: 7.5pt; }}
+td.v {{ height: 12pt; }}
 thead {{ display: table-header-group; }}
 tr {{ break-inside: avoid; }}
 
@@ -343,9 +345,23 @@ def prep(text: str) -> str:
     return text
 
 
+def _renglon_escribible(m: re.Match) -> str:
+    """Da altura de escritura a los renglones de bitacora o registro.
+
+    Solo a los que tienen tres o mas celdas vacias: son los que se llenan a
+    mano sesion por sesion. Las tablas de dos columnas (dato / registro) se
+    dejan compactas, para no gastar hojas.
+    """
+    fila = m.group(0)
+    if fila.count("<td></td>") >= 3:
+        fila = fila.replace("<td></td>", '<td class="v"></td>')
+    return fila
+
+
 def md_to_html(path: Path) -> str:
     raw = prep(path.read_text(encoding="utf-8"))
-    return markdown.markdown(raw, extensions=MD_EXT)
+    html = markdown.markdown(raw, extensions=MD_EXT)
+    return re.sub(r"<tr>.*?</tr>", _renglon_escribible, html, flags=re.S)
 
 
 def esc(s: str) -> str:
@@ -442,15 +458,51 @@ def build_pdf(tomo):
     return dest, len(files)
 
 
+def blancos(pdf: Path, umbral=20):
+    """Detecta paginas con mucho espacio muerto al pie.
+
+    El expediente se reimprime constantemente: una pagina medio vacia es papel
+    tirado. Devuelve [(pagina, % de alto desperdiciado)]. Requiere pypdfium2 y
+    numpy; si no estan instalados, no se hace la revision.
+    """
+    try:
+        import numpy as np
+        import pypdfium2 as pdfium
+    except ImportError:
+        return None
+    doc = pdfium.PdfDocument(str(pdf))
+    fuera = []
+    for i in range(len(doc)):
+        gris = np.array(doc[i].render(scale=0.6).to_pil().convert("L"))
+        alto = gris.shape[0]
+        pie = int(alto * 0.94)  # zona de encabezado y pie de pagina
+        tinta = [r for r in np.where((gris < 160).any(axis=1))[0] if r < pie]
+        pct = round((pie - (max(tinta) if tinta else 0)) / alto * 100)
+        if pct > umbral:
+            fuera.append((i + 1, pct))
+    return len(doc), fuera
+
+
 def main():
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir(parents=True)
 
+    total = 0
     for tomo in TOMOS:
         dest, n = build_pdf(tomo)
-        size = dest.stat().st_size / 1024
-        print(f"{dest.name:42s} {n:2d} doc(s)  {size:7.1f} KB")
+        rev = blancos(dest)
+        if rev is None:
+            extra = ""
+        else:
+            paginas, fuera = rev
+            total += paginas
+            silencio = not tomo.get("revisar_blancos", True)
+            aviso = "" if silencio or not fuera else f"  REVISAR espacio muerto: {fuera}"
+            extra = f"{paginas:3d} pag{aviso}"
+        print(f"{dest.name:40s} {n:2d} doc(s)  {extra}")
+    if total:
+        print(f"{'TOTAL':40s} {total:3d} paginas")
 
 
 if __name__ == "__main__":

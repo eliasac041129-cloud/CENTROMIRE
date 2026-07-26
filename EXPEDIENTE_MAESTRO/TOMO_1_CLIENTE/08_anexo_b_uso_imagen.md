@@ -41,15 +41,12 @@ Esta autorización **no implica renuncia** a los derechos de EL CLIENTE sobre su
 
 ## SEXTA. FIRMA
 
-<table class="firmas"><tr><td><b>EL CLIENTE</b><br><br>_______________________________________<br>Nombre y firma</td><td><b>POR EL ESTABLECIMIENTO</b><br><br>_______________________________________<br>Nombre y firma de quien atiende</td></tr></table>
+<table class="firmas"><tr><td><b>EL CLIENTE</b><br><br>_______________________________________<br>Nombre y firma</td><td><b>POR EL ESTABLECIMIENTO</b><br><br>_______________________________________<br>Nombre y firma de quien atiende</td></tr><tr><td colspan="2">Lugar y fecha: Ciudad de México, a ____ de __________________ de 20____.</td></tr></table>
 
-Lugar y fecha: Ciudad de México, a ____ de __________________ de 20____.
-
----
-
-**REGISTRO INTERNO DE MATERIAL** (uso de EL ESTABLECIMIENTO)
+**REGISTRO INTERNO DE MATERIAL PUBLICADO** (uso de EL ESTABLECIMIENTO)
 
 | Fecha | Tipo de material | Medio donde se publicó | Fecha de retiro | Motivo |
 |---|---|---|---|---|
+| | | | | |
 | | | | | |
 | | | | | |

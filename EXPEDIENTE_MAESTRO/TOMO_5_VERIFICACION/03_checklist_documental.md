@@ -88,8 +88,19 @@
 
 Renglones sin cumplir: ______ **Los renglones 30 y 43 son críticos: sin ellos, el resto del expediente pierde eficacia.**
 
-Acciones correctivas y fecha compromiso:
-1. ______________________________________________________________
-2. ______________________________________________________________
+**Acciones correctivas comprometidas**
+
+| # | Renglón | Acción correctiva | Responsable | Fecha compromiso | Cerrada |
+|---|---|---|---|---|---|
+| 1 | | | | | ☐ |
+| 2 | | | | | ☐ |
+| 3 | | | | | ☐ |
+| 4 | | | | | ☐ |
+| 5 | | | | | ☐ |
+| 6 | | | | | ☐ |
+| 7 | | | | | ☐ |
+| 8 | | | | | ☐ |
+| 9 | | | | | ☐ |
+| 10 | | | | | ☐ |
 
 Revisó: ______________________ Fecha: ____/____/20____ Firma: __________________
