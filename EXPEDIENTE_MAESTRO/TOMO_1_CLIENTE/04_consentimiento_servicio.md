@@ -57,7 +57,7 @@ EL ESTABLECIMIENTO puede **negar, suspender o dar por terminado** el servicio, e
 
 ## NOVENA. ATENCIÓN DE INCONFORMIDADES
 
-Cualquier inconformidad se presenta directamente en el establecimiento o al correo **⟨correo único oficial⟩**, y se atiende por escrito. Lo anterior sin perjuicio de los derechos que asisten a EL CLIENTE ante PROFECO, la CONDUSEF en su caso, o la autoridad sanitaria.
+Cualquier inconformidad se presenta directamente en el establecimiento o al correo **contacto@mirebelleza.com**, y se atiende por escrito. Lo anterior sin perjuicio de los derechos que asisten a EL CLIENTE ante PROFECO, la CONDUSEF en su caso, o la autoridad sanitaria.
 
 ## DÉCIMA. DATOS PERSONALES
 

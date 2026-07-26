@@ -25,7 +25,7 @@ Límite honesto: mientras el negocio opere como **persona física**, la reserva 
 
 ## 3. REGLAS OPERATIVAS DE LA RESERVA
 
-1. **Un solo correo y un solo teléfono oficiales del establecimiento**, no personales, para privacidad, ARCO, quejas y trato con clientes.
+1. **Canal oficial único del establecimiento**, no personal: **contacto@mirebelleza.com** y **56 1681 8058**, para privacidad, ARCO, quejas y trato con clientes. El correo y el teléfono personales de la titular no se comparten ni se publican.
 2. **El personal no informa** quién es la dueña, ni la estructura del negocio, ni datos personales de la titular. Respuesta única: *"La administración del centro atiende ese tema; con gusto tomo su solicitud por escrito."*
 3. **En redes, la voz es la marca**, no la persona. Sin nombre completo, sin datos personales, sin referencias a domicilio particular, sin exhibir documentos oficiales que contengan el nombre.
 4. **Los documentos que contienen el nombre** (aviso sanitario, contratos, fiscales) se conservan en la carpeta de verificación y en el archivo de la titular, **no se comparten con clientes** ni se publican. Ante autoridad se exhiben sin objeción.

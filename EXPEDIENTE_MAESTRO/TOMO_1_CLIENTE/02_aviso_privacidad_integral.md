@@ -4,7 +4,7 @@
 
 ## PRIMERA. RESPONSABLE
 
-**CENTRO MIRË DE BELLEZA INTEGRAL Y DISEÑO** (en adelante, **EL ESTABLECIMIENTO**), establecimiento de estética y belleza con Aviso de Funcionamiento COFEPRIS No. 2509135018X00286, con domicilio en Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, Ciudad de México, y correo electrónico de contacto **⟨correo único oficial⟩**, es el responsable del tratamiento de sus datos personales, en términos de los artículos 15, 16 y 17 de la **Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP)** y su Reglamento.
+**CENTRO MIRË DE BELLEZA INTEGRAL Y DISEÑO** (en adelante, **EL ESTABLECIMIENTO**), establecimiento de estética y belleza con Aviso de Funcionamiento COFEPRIS No. 2509135018X00286, con domicilio en Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, Ciudad de México, y correo electrónico de contacto **contacto@mirebelleza.com**, es el responsable del tratamiento de sus datos personales, en términos de los artículos 15, 16 y 17 de la **Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP)** y su Reglamento.
 
 Los datos completos de identificación de la persona titular del establecimiento están a disposición del titular de los datos que lo solicite por escrito en el domicilio o correo señalados.
 
@@ -49,7 +49,7 @@ EL ESTABLECIMIENTO **no comercializa ni transfiere** sus datos a terceros con fi
 
 Usted puede **Acceder, Rectificar, Cancelar u Oponerse** al tratamiento de sus datos, **revocar** su consentimiento y **limitar** el uso o divulgación de los mismos.
 
-Presente su solicitud en el correo **⟨correo único oficial⟩** o por escrito en el domicilio de EL ESTABLECIMIENTO, indicando: (i) nombre y medio para recibir la respuesta; (ii) documento que acredite su identidad o la representación legal; (iii) descripción clara de los datos y del derecho que ejerce; y (iv) cualquier elemento que facilite la localización de los datos.
+Presente su solicitud en el correo **contacto@mirebelleza.com** o por escrito en el domicilio de EL ESTABLECIMIENTO, indicando: (i) nombre y medio para recibir la respuesta; (ii) documento que acredite su identidad o la representación legal; (iii) descripción clara de los datos y del derecho que ejerce; y (iv) cualquier elemento que facilite la localización de los datos.
 
 La respuesta se comunicará **en un plazo máximo de veinte días hábiles** y, de resultar procedente, se hará efectiva dentro de los quince días hábiles siguientes (artículos 32 y 35 de la LFPDPPP). La revocación surte efectos hacia el futuro y no alcanza el tratamiento previo lícitamente realizado ni la conservación de la información necesaria para el cumplimiento de obligaciones legales.
 

@@ -9,8 +9,8 @@
 | **Aviso de Funcionamiento COFEPRIS** | 2509135018X00286 |
 | **Giro** | SCIAN 812110 — Salones y clínicas de belleza y peluquerías |
 | **Domicilio** | Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, Ciudad de México |
-| **Titular** | C. ⟨nombre completo de la titular⟩ |
-| **Contacto oficial** | ⟨correo único oficial⟩ · ⟨teléfono del establecimiento⟩ |
+| **Titular** | C. Mirely Jiménez Regalado |
+| **Contacto oficial** | contacto@mirebelleza.com · 56 1681 8058 |
 | **Fecha de integración de esta carpeta** | ____/____/20____ |
 
 ---

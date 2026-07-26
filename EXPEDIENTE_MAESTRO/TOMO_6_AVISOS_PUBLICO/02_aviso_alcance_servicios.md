@@ -40,4 +40,4 @@ Los resultados de los servicios estéticos **varían en cada persona** y depende
 ---
 
 **Su seguridad está antes que cualquier servicio.**
-Cualquier duda, pregunte en recepción.
+Cualquier duda, pregunte en recepción o escríbanos: **contacto@mirebelleza.com · 56 1681 8058**

@@ -23,7 +23,7 @@ Indicaciones entregadas (marcar las aplicables):
 
 **Aviso:** EL ESTABLECIMIENTO **no diagnostica ni medica**. Ante cualquier signo anterior, acuda con su médico o a urgencias y, si lo desea, avísenos para suspender las sesiones programadas.
 
-Contacto del establecimiento: ______________________ Horario de atención: ______________
+Contacto del establecimiento: **contacto@mirebelleza.com · 56 1681 8058** Horario de atención: ______________
 
 ## PARTE B. CONSTANCIA DE DERIVACIÓN (solo si el servicio se negó, aplazó o suspendió)
 

@@ -5,7 +5,7 @@
 | Dato | Registro |
 |---|---|
 | Nombre comercial | CENTRO MIRË DE BELLEZA INTEGRAL Y DISEÑO |
-| Titular (persona física) | C. ⟨nombre completo de la titular⟩ |
+| Titular (persona física) | C. Mirely Jiménez Regalado |
 | RFC | |
 | Aviso de Funcionamiento COFEPRIS | 2509135018X00286 |
 | Fecha del aviso | |
@@ -14,8 +14,8 @@
 | Superficie aproximada | |
 | Horario de operación | |
 | Número de personas que laboran | |
-| Correo oficial para notificaciones | ⟨correo único oficial⟩ |
-| Teléfono del establecimiento | |
+| Correo oficial para notificaciones | contacto@mirebelleza.com |
+| Teléfono del establecimiento | 56 1681 8058 |
 
 ## 2. SERVICIOS QUE SE PRESTAN (lista declarada)
 

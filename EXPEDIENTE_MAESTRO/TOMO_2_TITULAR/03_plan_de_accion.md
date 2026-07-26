@@ -25,7 +25,7 @@ Orden de ejecución por criterio de exposición: primero lo que puede provocar u
 | 10 | Abrir y usar las **bitácoras**: limpieza y desinfección, esterilización, mantenimiento de equipo, capacitación, incidentes | Bitácoras con registros diarios reales | ☐ |
 | 11 | Recabar **constancias de capacitación** del personal por cada equipo que opera | Constancias con nombre, equipo y fecha | ☐ |
 | 12 | Formalizar el **convenio con médicos** que refieren pacientes postquirúrgicos (Tomo 3) | Convenio firmado por ambas partes | ☐ |
-| 13 | Definir y usar **un solo correo oficial** para privacidad, ARCO y quejas, y sustituirlo en todos los avisos | Correo activo y monitoreado | ☐ |
+| 13 | Mantener activo y monitoreado el **canal oficial único** ya asentado en el expediente: contacto@mirebelleza.com y 56 1681 8058, para privacidad, ARCO y quejas | Bandeja revisada y registro de solicitudes | ☐ |
 | 14 | **Exhibir precios y condiciones** de servicio a la vista del público, conforme a la Ley Federal de Protección al Consumidor | Lista de precios visible, fotografiada | ☐ |
 
 ## FASE 3 — 90 DÍAS. Consolida y protege el patrimonio
