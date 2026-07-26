@@ -29,21 +29,16 @@ Este expediente se imprime y firma completo. Marcar conforme se recaba:
 | 1 | Aviso de Privacidad Integral y consentimiento de datos | Sí | ☐ | |
 | 2 | Cuestionario de tamizaje de seguridad | Sí | ☐ | |
 | 3 | Consentimiento informado de servicio estético no invasivo | Sí | ☐ | |
-| 4 | Consentimiento de cuidado estético complementario a procedimiento médico | Solo si aplica | ☐ | |
-| 5 | Consentimiento de uso de imagen y testimonio | Opcional | ☐ | |
-| 6 | Constancia de indicaciones posteriores y de derivación médica | Según servicio | ☐ | |
-| 7 | Control de sesiones | Sí | ☐ | |
+| 4 | Constancia de indicaciones posteriores y de derivación | Según servicio | ☐ | |
+| 5 | Control de sesiones | Sí | ☐ | |
+| A | **Anexo A.** Cuidado estético complementario a procedimiento médico | Solo si aplica | ☐ | |
+| B | **Anexo B.** Uso de imagen y testimonio | Opcional | ☐ | |
 
 **Anexos que deben acompañar al expediente cuando aplique:**
 ☐ Indicación médica por escrito del médico tratante (servicios posteriores a un procedimiento médico).
 ☐ Copia de identificación de quien firma por un menor de edad.
 ☐ Constancia de derivación médica (cuando se haya negado o suspendido un servicio).
 
-## III. REGLAS DE RESGUARDO (uso interno)
-
-1. El expediente contiene **datos personales sensibles**. Se archiva por folio, bajo llave, con acceso restringido.
-2. Las fotografías se almacenan en carpeta protegida con contraseña. **No se conservan en galerías de teléfonos personales ni se envían por chats.**
-3. Conservación: mientras subsista la relación con el cliente y, después, por el plazo necesario para atender responsabilidades legales; concluido éste, se bloquea y suprime.
-4. Ninguna persona ajena al establecimiento tiene acceso a este expediente, salvo requerimiento fundado de autoridad competente o consentimiento del cliente.
+*Resguardo: expediente con datos sensibles. Se archiva por folio, bajo llave; las imágenes en medio protegido con contraseña, nunca en teléfonos personales ni en chats. Solo accede el personal del establecimiento, salvo requerimiento fundado de autoridad o consentimiento del cliente.*
 
 Recibió y abrió el expediente: ______________________________  Firma: __________________

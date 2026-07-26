@@ -24,6 +24,21 @@ Seis tomos. Cada tomo es **un solo PDF continuo, en blanco y negro, listo para i
 
 **Regla operativa:** el Tomo 1 se imprime completo y se firma completo. Nunca se firma "solo una hoja".
 
+### 1.1 Instrucciones de impresión (ahorro de papel)
+
+Los formatos están compuestos para gastar el mínimo de hojas: sin páginas de portada en los tomos de tiraje repetido, sin espacios muertos y con los documentos corriendo uno tras otro, separados por una línea de corte visible. Cada documento conserva su título y su folio, de modo que sigue siendo un instrumento identificable aunque comparta hoja con otro.
+
+| Tomo | Págs. | Cómo imprimirlo | Hojas |
+|---|---|---|---|
+| 1 · Cliente | 10 | **Doble cara.** Juego base: **páginas 1 a 7**. Anexo A: páginas 8-9, solo si viene de cirugía. Anexo B: página 10, solo si autoriza imagen | **4** base |
+| 2 · Titular | 8 | Doble cara | 4 |
+| 3 · Médico | 6 | Doble cara. Cada instrumento inicia hoja: convenio por duplicado, indicación médica por paciente, carta suelta | 3 |
+| 4 · Personal | 12 | Doble cara. Los protocolos de urgencias y de visita de autoridad y la carta de compromiso inician hoja, porque se fijan a la vista o se archivan aparte | 6 |
+| 5 · Verificación | 10 | Doble cara. Inventario y bitácoras inician hoja, porque se reemplazan cada mes | 5 |
+| 6 · Avisos al público | 5 | **Una cara**, un aviso por hoja, para fijarlos por separado | 5 |
+
+**El costo recurrente es el Tomo 1**, porque se reimprime con cada cliente. Quedó en **4 hojas a doble cara** el juego base (páginas 1 a 7); los dos anexos solo se imprimen cuando aplican, y por eso están al final del archivo. Conviene imprimirlo en tiros de 20 o 30 juegos, engrapados y foliados a mano en la carátula, y tener unas cuantas copias sueltas de los anexos.
+
 ---
 
 ## 2. POLÍTICA DE IDENTIFICACIÓN DE LA TITULAR (criterio jurídico)
