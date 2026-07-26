@@ -65,4 +65,17 @@ Al no realizarse procedimientos invasivos, el establecimiento **no es generador 
 
 Se firman **el mismo día**, con tinta. Los errores se tachan con una línea y se corrigen a un lado con firma. **Prohibido usar corrector, borrar, arrancar hojas o llenar bitácoras por adelantado**: eso convierte un registro de defensa en prueba de simulación.
 
+## 8. CONTROL DE PREPARACIÓN DEL DESINFECTANTE
+
+La dilución y el tiempo de contacto son el punto que más se cuestiona en una verificación. Se registra cada preparación:
+
+| Fecha | Hora | Producto | Dilución preparada | Tiempo de contacto aplicado | Preparó | Firma |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
 Responsable de verificar el cumplimiento: ____________________________ Firma: ______________

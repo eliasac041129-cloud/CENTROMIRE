@@ -60,5 +60,36 @@
 | | | | ☐ Sí ☐ No aplica | |
 | | | | ☐ Sí ☐ No aplica | |
 | | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
+| | | | ☐ Sí ☐ No aplica | |
 
 **Suspensión definitiva:** ☐ Sí, fecha ____/____/20____ Motivo: ______________________________

@@ -30,14 +30,14 @@ Los formatos están compuestos para gastar el mínimo de hojas: sin páginas de 
 
 | Tomo | Págs. | Cómo imprimirlo | Hojas |
 |---|---|---|---|
-| 1 · Cliente | 10 | **Doble cara.** Juego base: **páginas 1 a 7**. Anexo A: páginas 8-9, solo si viene de cirugía. Anexo B: página 10, solo si autoriza imagen | **4** base |
+| 1 · Cliente | 9 | **Doble cara.** Juego base: **páginas 1 a 7**. Anexo A: página 8, solo si viene de cirugía. Anexo B: página 9, solo si autoriza imagen | **4** base |
 | 2 · Titular | 8 | Doble cara | 4 |
-| 3 · Médico | 6 | Doble cara. Cada instrumento inicia hoja: convenio por duplicado, indicación médica por paciente, carta suelta | 3 |
-| 4 · Personal | 12 | Doble cara. Los protocolos de urgencias y de visita de autoridad y la carta de compromiso inician hoja, porque se fijan a la vista o se archivan aparte | 6 |
+| 3 · Médico | 5 | Doble cara. Cada instrumento inicia hoja: convenio por duplicado, indicación médica por paciente, carta suelta | 3 |
+| 4 · Personal | 11 | Doble cara. Solo el protocolo de urgencias inicia hoja, porque se fija a la vista en el área de servicio | 6 |
 | 5 · Verificación | 10 | Doble cara. Inventario y bitácoras inician hoja, porque se reemplazan cada mes | 5 |
-| 6 · Avisos al público | 5 | **Una cara**, un aviso por hoja, para fijarlos por separado | 5 |
+| 6 · Avisos al público | 4 | **Una cara**, un aviso por hoja, para fijarlos por separado | 4 |
 
-**El costo recurrente es el Tomo 1**, porque se reimprime con cada cliente. Quedó en **4 hojas a doble cara** el juego base (páginas 1 a 7); los dos anexos solo se imprimen cuando aplican, y por eso están al final del archivo. Conviene imprimirlo en tiros de 20 o 30 juegos, engrapados y foliados a mano en la carátula, y tener unas cuantas copias sueltas de los anexos.
+**El costo recurrente es el Tomo 1.** Imprimir el juego base (páginas 1 a 7) en tiros de 20 o 30, engrapado y foliado a mano, y tener copias sueltas de cada anexo. Al editar cualquier documento, regenerar con `python3 _build_expediente.py`: avisa si una página quedó con más de 20% de espacio muerto al pie.
 
 ---
 
@@ -89,5 +89,3 @@ Este expediente no sirve para aparentar cumplimiento: sirve para **sostener que 
 | 6 | | | | |
 
 **Resguardo:** los Tomos 1 firmados y el Tomo 2 contienen datos sensibles y estrategia legal. Se guardan bajo llave, con acceso exclusivo de la titular. Las copias digitales, en carpeta cifrada o con contraseña; **no en galerías de teléfono ni en chats de WhatsApp.**
-
-*Documento de cumplimiento y buenas prácticas. No constituye representación legal ni sustituye la asesoría de un abogado sanitario con cédula. Verificar la normativa vigente en el DOF y en el portal de COFEPRIS/DIGIPRiS antes de cada trámite.*

@@ -19,3 +19,13 @@ Los servicios estéticos **no garantizan resultados**. Éstos varían en cada pe
 ## SI TIENE UNA INCONFORMIDAD
 
 Preséntela directamente en recepción o al correo **mirecbi19@gmail.com**. La atenderemos por escrito. Lo anterior sin perjuicio de sus derechos como consumidor ante la **PROFECO (teléfono 55 5568 8722)** y de los que le correspondan ante la autoridad sanitaria.
+
+---
+
+# AVISO SOBRE FOTOGRAFÍAS
+
+No tomamos ni publicamos fotografías o videos de nuestros clientes **sin su autorización por escrito**.
+
+Si usted autoriza su difusión, puede **retirar esa autorización en cualquier momento** solicitándolo en recepción o al correo **mirecbi19@gmail.com**; el material se retirará de nuestros canales oficiales dentro de los cinco días hábiles siguientes.
+
+**Negarse a la difusión no afecta su servicio ni su precio.**

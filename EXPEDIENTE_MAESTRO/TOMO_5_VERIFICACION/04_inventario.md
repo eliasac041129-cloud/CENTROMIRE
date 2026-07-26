@@ -14,6 +14,12 @@ Fecha de última actualización: ____/____/20____ Actualizó: __________________
 | 4 | | | | | | ☐ | | |
 | 5 | | | | | | ☐ | | |
 | 6 | | | | | | ☐ | | |
+| 7 | | | | | | ☐ | | |
+| 8 | | | | | | ☐ | | |
+| 9 | | | | | | ☐ | | |
+| 10 | | | | | | ☐ | | |
+| 11 | | | | | | ☐ | | |
+| 12 | | | | | | ☐ | | |
 
 **Regla:** ningún equipo se usa sin factura o comprobante de adquisición, documentación del fabricante y personal capacitado con constancia. Equipo con falla: etiqueta "fuera de servicio" y baja temporal registrada.
 
@@ -29,6 +35,22 @@ Fecha de última actualización: ____/____/20____ Actualizó: __________________
 | 6 | | | | | | | ☐ | |
 | 7 | | | | | | | ☐ | |
 | 8 | | | | | | | ☐ | |
+| 9 | | | | | | | ☐ | |
+| 10 | | | | | | | ☐ | |
+| 11 | | | | | | | ☐ | |
+| 12 | | | | | | | ☐ | |
+| 13 | | | | | | | ☐ | |
+| 14 | | | | | | | ☐ | |
+| 15 | | | | | | | ☐ | |
+| 16 | | | | | | | ☐ | |
+| 17 | | | | | | | ☐ | |
+| 18 | | | | | | | ☐ | |
+| 19 | | | | | | | ☐ | |
+| 20 | | | | | | | ☐ | |
+| 21 | | | | | | | ☐ | |
+| 22 | | | | | | | ☐ | |
+| 23 | | | | | | | ☐ | |
+| 24 | | | | | | | ☐ | |
 
 **Criterios de admisión de producto:** envase original; etiquetado conforme a **NOM-141-SSA1/SCFI-2012**; lote y caducidad legibles; proveedor con factura; **no** de uso exclusivo por profesional de la salud; **no** fraccionado sin identificación.
 
@@ -66,11 +88,16 @@ Verificó: ______________________ Fecha: ____/____/20____ Firma: _______________
 | | | | ☐ Caducidad ☐ Deterioro ☐ Retiro por perímetro ☐ Otro | | | |
 | | | | ☐ Caducidad ☐ Deterioro ☐ Retiro por perímetro ☐ Otro | | | |
 | | | | ☐ Caducidad ☐ Deterioro ☐ Retiro por perímetro ☐ Otro | | | |
+| | | | ☐ Caducidad ☐ Deterioro ☐ Retiro por perímetro ☐ Otro | | | |
+| | | | ☐ Caducidad ☐ Deterioro ☐ Retiro por perímetro ☐ Otro | | | |
+| | | | ☐ Caducidad ☐ Deterioro ☐ Retiro por perímetro ☐ Otro | | | |
 
 ## 6. REVISIÓN SEMANAL DE CADUCIDADES
 
 | Semana | Fecha | Productos próximos a vencer | Acción | Revisó |
 |---|---|---|---|---|
+| | | | | |
+| | | | | |
 | | | | | |
 | | | | | |
 | | | | | |
