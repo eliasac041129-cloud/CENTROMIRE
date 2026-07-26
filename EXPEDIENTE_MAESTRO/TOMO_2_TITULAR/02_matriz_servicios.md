@@ -28,7 +28,7 @@ Criterio de clasificación, en este orden:
 
 | Servicio | Condiciones acumulativas obligatorias |
 |---|---|
-| Drenaje linfático estético posquirúrgico | (a) Indicación médica escrita y vigente; (b) herida cerrada y sin suturas pendientes; (c) tamizaje sin signos de alarma; (d) Documento 4 del Tomo 1 firmado; (e) registro en control de sesiones |
+| Drenaje linfático estético posquirúrgico | (a) Indicación médica escrita y vigente; (b) herida cerrada y sin suturas pendientes; (c) tamizaje sin signos de alarma; (d) Anexo A del Tomo 1 firmado; (e) registro en control de sesiones |
 | Colocación y ajuste de prendas compresivas | Indicación médica escrita que especifique prenda y horario |
 | Aparatología estética en zona operada | Autorización médica escrita **que mencione el equipo o la técnica**; si el médico no lo especifica, no se aplica |
 | Aplicación externa de cosméticos indicados por el médico | El médico indica el producto; EL ESTABLECIMIENTO no lo sustituye ni lo cambia |

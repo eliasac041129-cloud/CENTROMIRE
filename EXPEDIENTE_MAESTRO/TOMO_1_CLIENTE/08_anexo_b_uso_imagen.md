@@ -1,4 +1,4 @@
-# DOCUMENTO 5. CONSENTIMIENTO DE USO DE IMAGEN Y TESTIMONIO
+# ANEXO B. CONSENTIMIENTO DE USO DE IMAGEN Y TESTIMONIO
 
 **Documento opcional. Negarlo no afecta el servicio ni su precio.**
 
@@ -31,7 +31,7 @@ EL CLIENTE autoriza a **CENTRO MIRË DE BELLEZA INTEGRAL Y DISEÑO** (**EL ESTAB
 
 ## CUARTA. REVOCACIÓN
 
-EL CLIENTE puede revocar esta autorización **en cualquier momento y sin justificación**, por escrito al correo **contacto@mirebelleza.com** o en el domicilio del establecimiento. EL ESTABLECIMIENTO retirará el material de sus canales oficiales **dentro de los cinco días hábiles** siguientes.
+EL CLIENTE puede revocar esta autorización **en cualquier momento y sin justificación**, por escrito al correo **mirecbi19@gmail.com** o en el domicilio del establecimiento. EL ESTABLECIMIENTO retirará el material de sus canales oficiales **dentro de los cinco días hábiles** siguientes.
 
 EL CLIENTE reconoce que, respecto de material ya difundido y **replicado o descargado por terceros ajenos**, EL ESTABLECIMIENTO solo puede retirar el publicado en sus propios canales, sin que ello implique renuncia a los derechos que EL CLIENTE pueda ejercer frente a esos terceros.
 

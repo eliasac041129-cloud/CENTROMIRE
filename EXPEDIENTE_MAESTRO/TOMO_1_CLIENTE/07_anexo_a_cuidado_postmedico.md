@@ -1,4 +1,4 @@
-# DOCUMENTO 4. CONSENTIMIENTO DE CUIDADO ESTÉTICO COMPLEMENTARIO POSTERIOR A PROCEDIMIENTO MÉDICO
+# ANEXO A. CONSENTIMIENTO DE CUIDADO ESTÉTICO COMPLEMENTARIO POSTERIOR A PROCEDIMIENTO MÉDICO
 
 **Se firma únicamente cuando EL CLIENTE viene de una cirugía o procedimiento médico. Sin indicación médica escrita anexa, este documento no se firma y el servicio no se presta.**
 

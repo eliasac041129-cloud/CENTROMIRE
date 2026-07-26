@@ -12,7 +12,7 @@
 
 **Transferencias.** No vendemos ni comercializamos sus datos. Solo se comunican a su médico tratante cuando su seguridad lo requiera, a autoridades competentes cuando la ley lo exija, y a quienes nos prestan servicios de contabilidad o resguardo de información, obligados a confidencialidad.
 
-**Sus derechos.** Puede acceder, rectificar, cancelar u oponerse al tratamiento de sus datos, revocar su consentimiento y limitar el uso o divulgación de los mismos, solicitándolo en el domicilio anterior, al correo **contacto@mirebelleza.com** o al teléfono **56 1681 8058**.
+**Sus derechos.** Puede acceder, rectificar, cancelar u oponerse al tratamiento de sus datos, revocar su consentimiento y limitar el uso o divulgación de los mismos, solicitándolo en el domicilio anterior, al correo **mirecbi19@gmail.com** o al teléfono **56 1681 8058**.
 
 **Aviso de privacidad integral.** Está disponible **para su consulta en este establecimiento** y se le entrega al abrir su expediente. Solicítelo en recepción.
 

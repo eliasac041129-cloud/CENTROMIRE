@@ -27,31 +27,40 @@ TOMOS = [
         "dir": None,
         "file": "00_INDICE_MAESTRO.md",
         "pdf": "00_INDICE_MAESTRO.pdf",
+        "impresion": "Imprimir a doble cara.",
+        "hoja_por_doc": False,
         "label": "Índice maestro",
         "titulo": "ÍNDICE MAESTRO DEL EXPEDIENTE",
         "destinatario": "Titular del establecimiento",
         "reservado": True,
         "uso": "Documento de control. Se conserva con la titular. No circula.",
-        "base_font": "10.5pt",
+        "base_font": "10pt",
     },
     {
         "dir": "TOMO_1_CLIENTE",
         "pdf": "TOMO_1_CLIENTE.pdf",
+        "portada": False,
+        "impresion": "Imprimir A DOBLE CARA. Juego base: paginas 1 a 7 (4 hojas). Anexo A: paginas 8 y 9, solo si el cliente viene de un procedimiento medico. Anexo B: pagina 10, solo si autoriza el uso de su imagen.",
+        "hoja_por_doc": False,
+        "hoja_nueva": ["07_anexo_a_cuidado_postmedico.md", "08_anexo_b_uso_imagen.md"],
         "label": "Tomo 1 · Cliente",
         "titulo": "TOMO 1\nEXPEDIENTE DEL CLIENTE",
         "destinatario": "Cliente",
         "reservado": False,
         "uso": (
-            "Se imprime UN JUEGO COMPLETO por cada cliente nuevo y se firma completo. "
-            "El documento 4 solo se usa cuando el cliente viene de un procedimiento médico; "
-            "el documento 5 es opcional. Se entrega copia del consentimiento y de las "
-            "indicaciones al cliente. El expediente firmado se archiva por folio, bajo llave."
+            "Se imprimen y firman completos los documentos 1 a 5 por cada cliente nuevo. "
+            "El Anexo A solo se imprime cuando el cliente viene de un procedimiento médico y "
+            "el Anexo B solo si autoriza el uso de su imagen. Se entrega copia del "
+            "consentimiento y de las indicaciones al cliente; el expediente firmado se "
+            "archiva por folio, bajo llave."
         ),
-        "base_font": "10.5pt",
+        "base_font": "10pt",
     },
     {
         "dir": "TOMO_2_TITULAR",
         "pdf": "TOMO_2_TITULAR_CONFIDENCIAL.pdf",
+        "impresion": "Imprimir a doble cara.",
+        "hoja_por_doc": False,
         "label": "Tomo 2 · Titular (confidencial)",
         "titulo": "TOMO 2\nDICTAMEN, ESTRATEGIA Y PLAN DE ACCIÓN",
         "destinatario": "Titular del establecimiento y sus asesores",
@@ -61,11 +70,13 @@ TOMOS = [
             "forma parte de la carpeta que se muestra a la autoridad. Contiene el análisis "
             "de riesgo y las acciones por ejecutar. Se conserva bajo llave."
         ),
-        "base_font": "10.5pt",
+        "base_font": "10pt",
     },
     {
         "dir": "TOMO_3_MEDICO",
         "pdf": "TOMO_3_MEDICO.pdf",
+        "impresion": "Imprimir a doble cara. Cada instrumento inicia hoja: el convenio se firma por duplicado, la indicacion medica se reproduce por paciente y la carta se entrega suelta.",
+        "hoja_por_doc": True,
         "label": "Tomo 3 · Médico",
         "titulo": "TOMO 3\nCOLABORACIÓN CON MÉDICOS",
         "destinatario": "Médico que refiere pacientes",
@@ -76,11 +87,14 @@ TOMOS = [
             "usa uno por paciente; se anexa al expediente del cliente. La carta de alcance "
             "y límites se entrega antes de recibir la primera referencia."
         ),
-        "base_font": "10.5pt",
+        "base_font": "10pt",
     },
     {
         "dir": "TOMO_4_PERSONAL",
         "pdf": "TOMO_4_PERSONAL.pdf",
+        "impresion": "Imprimir a doble cara. Los protocolos de urgencias y de visita de autoridad y la carta de compromiso inician hoja, porque se fijan a la vista o se archivan por separado.",
+        "hoja_por_doc": False,
+        "hoja_nueva": ["04_protocolo_urgencias.md", "05_protocolo_visita_autoridad.md", "07_carta_compromiso.md"],
         "label": "Tomo 4 · Personal",
         "titulo": "TOMO 4\nMANUAL DE OPERACIÓN DEL PERSONAL",
         "destinatario": "Personal y colaboradores",
@@ -91,11 +105,14 @@ TOMOS = [
             "se firma la carta de compromiso final. El protocolo de urgencias y el de "
             "visita de autoridad se fijan también en el área de servicio."
         ),
-        "base_font": "10.5pt",
+        "base_font": "10pt",
     },
     {
         "dir": "TOMO_5_VERIFICACION",
         "pdf": "TOMO_5_CARPETA_VERIFICACION.pdf",
+        "impresion": "Imprimir a doble cara. El inventario y las bitacoras inician hoja porque se reproducen y se reemplazan cada mes.",
+        "hoja_por_doc": False,
+        "hoja_nueva": ["04_inventario.md", "05_bitacoras.md"],
         "label": "Tomo 5 · Carpeta de verificación",
         "titulo": "TOMO 5\nCARPETA DE VERIFICACIÓN SANITARIA",
         "destinatario": "Autoridad, en visita de verificación",
@@ -105,11 +122,14 @@ TOMOS = [
             "mantiene accesible en el establecimiento. Se entrega al verificador al inicio "
             "de la visita. Las bitácoras se reproducen por mes."
         ),
-        "base_font": "10.5pt",
+        "base_font": "10pt",
     },
     {
         "dir": "TOMO_6_AVISOS_PUBLICO",
         "pdf": "TOMO_6_AVISOS_AL_PUBLICO.pdf",
+        "portada": False,
+        "impresion": "Imprimir a UNA CARA: cada aviso es una hoja independiente para fijar a la vista.",
+        "hoja_por_doc": True,
         "label": "Tomo 6 · Avisos al público",
         "titulo": "TOMO 6\nAVISOS PARA EXHIBIR AL PÚBLICO",
         "destinatario": "Público y clientes",
@@ -119,7 +139,7 @@ TOMOS = [
             "marco o funda plástica. El aviso de privacidad simplificado y el de alcance de "
             "servicios van en recepción, a la entrada."
         ),
-        "base_font": "12pt",
+        "base_font": "11.5pt",
     },
 ]
 
@@ -128,26 +148,25 @@ TOMOS = [
 CSS_TMPL = """
 @page {{
   size: Letter;
-  margin: 2.2cm 2cm 2.1cm 2.2cm;
+  margin: 1.35cm 1.5cm 1.25cm 1.6cm;
   @top-left {{
     content: "{establecimiento}";
-    font-family: "Liberation Serif", serif; font-size: 7.5pt;
-    color: #000; padding-bottom: 2pt;
+    font-family: "Liberation Serif", serif; font-size: 7pt;
+    color: #000; padding-bottom: 1pt;
   }}
   @top-right {{
     content: "{label}";
-    font-family: "Liberation Serif", serif; font-size: 7.5pt; color: #000;
+    font-family: "Liberation Serif", serif; font-size: 7pt; color: #000;
   }}
   @bottom-left {{
     content: "{pie}";
-    font-family: "Liberation Serif", serif; font-size: 7pt; color: #000;
+    font-family: "Liberation Serif", serif; font-size: 6.5pt; color: #000;
   }}
   @bottom-right {{
     content: "Pag. " counter(page) " de " counter(pages);
-    font-family: "Liberation Serif", serif; font-size: 7.5pt; color: #000;
+    font-family: "Liberation Serif", serif; font-size: 7pt; color: #000;
   }}
 }}
-@page :first {{ @top-left {{ content: ""; }} @top-right {{ content: ""; }} }}
 
 * {{ color: #000 !important; box-sizing: border-box; }}
 
@@ -155,78 +174,76 @@ html {{ font-family: "Liberation Serif", "DejaVu Serif", serif; }}
 body {{
   font-family: "Liberation Serif", "DejaVu Serif", serif;
   font-size: {base_font};
-  line-height: 1.38;
+  line-height: 1.22;
   text-align: justify;
   hyphens: none;
+  orphans: 2; widows: 2;
 }}
 
-/* ---- portada ---- */
-.portada {{ page-break-after: always; text-align: left; }}
+/* ---- encabezado del tomo (sin hoja de portada, para no gastar papel) ---- */
+.portada {{ text-align: left; margin-bottom: 9pt; }}
 .portada .marca {{
-  font-size: 10.5pt; letter-spacing: .06em; text-transform: uppercase;
-  border-bottom: 1.6pt solid #000; padding-bottom: 5pt; margin-bottom: 16pt;
+  font-size: 8.5pt; letter-spacing: .05em; text-transform: uppercase;
+  border-bottom: 1.4pt solid #000; padding-bottom: 2pt; margin-bottom: 6pt;
 }}
 .portada h1 {{
-  font-size: 17pt; line-height: 1.22; margin: 0 0 3pt 0; text-transform: uppercase;
-  border: 0; white-space: pre-line;
+  font-size: 13pt; line-height: 1.18; margin: 0 0 4pt 0; text-transform: uppercase;
+  border: 0; padding: 0; white-space: pre-line; text-align: left;
 }}
-.portada .rule {{ border-top: .8pt solid #000; margin: 11pt 0; }}
-.portada dl {{ margin: 0; }}
-.portada dt {{
-  font-size: 7.5pt; text-transform: uppercase; letter-spacing: .08em; margin-top: 7pt;
-}}
-.portada dd {{ margin: 1pt 0 0 0; font-size: 10pt; }}
+.portada .datos {{ font-size: 8pt; line-height: 1.3; margin: 0 0 5pt 0; }}
+.portada .datos b {{ text-transform: uppercase; letter-spacing: .04em; }}
 .portada .uso {{
-  margin-top: 13pt; border: .8pt solid #000; padding: 8pt 10pt; font-size: 9.5pt;
+  border: .7pt solid #000; padding: 4pt 6pt; font-size: 8pt; line-height: 1.28;
+  margin-bottom: 5pt;
 }}
-.portada .uso b {{ display: block; font-size: 8pt; letter-spacing: .08em; margin-bottom: 3pt; }}
+.portada .uso b {{ text-transform: uppercase; letter-spacing: .05em; }}
 .portada .sello {{
-  margin-top: 11pt; border: 1.6pt solid #000; padding: 6pt 10pt;
-  font-size: 9.5pt; font-weight: bold; text-transform: uppercase; text-align: center;
+  border: 1.3pt solid #000; padding: 3pt 6pt; font-size: 8.5pt; font-weight: bold;
+  text-transform: uppercase; text-align: center; margin-bottom: 5pt;
 }}
-.portada .indice {{ margin-top: 13pt; }}
-.portada .indice table {{ font-size: 9pt; margin: 0; }}
-.portada .legal {{ margin-top: 13pt; font-size: 8pt; text-align: justify; }}
+.portada .indice {{ font-size: 8pt; line-height: 1.3; margin-bottom: 5pt; }}
+.portada .legal {{ font-size: 7pt; line-height: 1.25; }}
 
 /* ---- documentos ---- */
-.doc {{ page-break-before: always; }}
+.doc.nueva {{ page-break-before: always; }}
+.doc.sigue {{ border-top: 1.2pt solid #000; padding-top: 7pt; margin-top: 10pt; }}
 
 h1 {{
-  font-size: 13pt; text-transform: uppercase; text-align: center; margin: 0 0 10pt 0;
-  padding-bottom: 5pt; border-bottom: 1.4pt solid #000; line-height: 1.25;
+  font-size: 11.5pt; text-transform: uppercase; text-align: center; margin: 0 0 6pt 0;
+  padding-bottom: 3pt; border-bottom: 1.2pt solid #000; line-height: 1.2;
   page-break-after: avoid;
 }}
 h2 {{
-  font-size: 10.5pt; text-transform: uppercase; margin: 14pt 0 5pt 0;
-  border-bottom: .6pt solid #000; padding-bottom: 2pt; page-break-after: avoid;
+  font-size: 9.5pt; text-transform: uppercase; margin: 8pt 0 3pt 0;
+  border-bottom: .5pt solid #000; padding-bottom: 1pt; page-break-after: avoid;
 }}
-h3 {{ font-size: 10pt; margin: 11pt 0 4pt 0; page-break-after: avoid; }}
-p {{ margin: 0 0 6pt 0; }}
-ol, ul {{ margin: 0 0 6pt 0; padding-left: 16pt; }}
-li {{ margin-bottom: 3pt; }}
+h3 {{ font-size: 9.5pt; margin: 6pt 0 2pt 0; page-break-after: avoid; }}
+p {{ margin: 0 0 3.5pt 0; }}
+ol, ul {{ margin: 0 0 3.5pt 0; padding-left: 14pt; }}
+li {{ margin-bottom: 1.5pt; }}
 strong {{ font-weight: bold; }}
-hr {{ border: 0; border-top: .8pt solid #000; margin: 12pt 0; }}
+hr {{ border: 0; border-top: .7pt solid #000; margin: 7pt 0; }}
 
 blockquote {{
-  margin: 8pt 0; padding: 7pt 10pt; border: .8pt solid #000; font-size: 10pt;
+  margin: 5pt 0; padding: 4pt 7pt; border: .7pt solid #000; font-size: 9.5pt;
   text-align: justify;
 }}
 blockquote p:last-child {{ margin-bottom: 0; }}
 
 table {{
-  width: 100%; border-collapse: collapse; margin: 7pt 0 9pt 0; font-size: 9pt;
+  width: 100%; border-collapse: collapse; margin: 4pt 0 5pt 0; font-size: 8.5pt;
 }}
 th, td {{
-  border: .6pt solid #000; padding: 3.5pt 4.5pt; text-align: left;
-  vertical-align: top; line-height: 1.28;
+  border: .5pt solid #000; padding: 2pt 3pt; text-align: left;
+  vertical-align: top; line-height: 1.2;
 }}
-th {{ font-weight: bold; text-transform: uppercase; font-size: 8pt; }}
+th {{ font-weight: bold; text-transform: uppercase; font-size: 7.5pt; }}
 thead {{ display: table-header-group; }}
 tr {{ break-inside: avoid; }}
 
-table.firmas {{ margin-top: 20pt; break-inside: avoid; font-size: 10pt; }}
+table.firmas {{ margin-top: 11pt; break-inside: avoid; font-size: 9.5pt; }}
 table.firmas td {{
-  border: 0; width: 50%; padding: 4pt 14pt 0 0; text-align: left; line-height: 1.5;
+  border: 0; width: 50%; padding: 2pt 12pt 0 0; text-align: left; line-height: 1.4;
 }}
 
 .box {{
@@ -241,8 +258,8 @@ table.firmas td {{
 }}
 
 /* listas de casillas: una por renglon, sin vinetas */
-ul.chk {{ list-style: none; padding-left: 0; margin: 5pt 0 8pt 0; }}
-ul.chk li {{ margin-bottom: 4pt; text-align: left; }}
+ul.chk {{ list-style: none; padding-left: 0; margin: 3pt 0 4pt 0; }}
+ul.chk li {{ margin-bottom: 2.5pt; text-align: left; }}
 
 /* dato por completar */
 .ph {{ font-style: italic; }}
@@ -251,11 +268,13 @@ em {{ font-style: italic; }}
 """
 
 CSS_CARTEL = """
-body.cartel {{ font-size: 12pt; line-height: 1.45; }}
-body.cartel h1 {{ font-size: 16pt; }}
-body.cartel h2 {{ font-size: 12.5pt; }}
-body.cartel h3 {{ font-size: 12pt; }}
-body.cartel .portada h1 {{ font-size: 17pt; }}
+body.cartel {{ font-size: 11.5pt; line-height: 1.32; }}
+body.cartel h1 {{ font-size: 15pt; }}
+body.cartel h2 {{ font-size: 12pt; }}
+body.cartel h3 {{ font-size: 11.5pt; }}
+body.cartel p {{ margin-bottom: 5pt; }}
+body.cartel li {{ margin-bottom: 3pt; }}
+body.cartel .portada h1 {{ font-size: 13pt; }}
 """
 
 # ---------------------------------------------------------------- utilidades
@@ -336,17 +355,12 @@ def esc(s: str) -> str:
 
 
 def indice_html(files) -> str:
+    """Indice en linea corrida: informa lo mismo ocupando una fraccion del espacio."""
     if len(files) < 2:
         return ""
-    rows = []
-    for i, f in enumerate(files, 1):
-        title = first_heading(f)
-        rows.append(f"<tr><td style='width:8%'>{i}</td><td>{esc(title)}</td></tr>")
+    partes = [f"{i}. {esc(first_heading(f))}" for i, f in enumerate(files, 1)]
     return (
-        "<div class='indice'><table><thead><tr><th>#</th>"
-        "<th>Documento</th></tr></thead><tbody>"
-        + "".join(rows)
-        + "</tbody></table></div>"
+        "<div class='indice'><b>CONTENIDO: </b>" + " · ".join(partes) + "</div>"
     )
 
 
@@ -373,24 +387,20 @@ def portada(tomo, files) -> str:
     )
     return f"""
 <div class="portada">
-  <div class="marca">{esc(ESTABLECIMIENTO)}</div>
+  <div class="marca">{esc(ESTABLECIMIENTO)} &nbsp;·&nbsp; Expediente maestro de
+    cumplimiento v2.0 &nbsp;·&nbsp; {esc(tomo['label'])}</div>
   <h1>{titulo}</h1>
-  <div class="rule"></div>
-  <dl>
-    <dt>Expediente</dt><dd>Expediente maestro de cumplimiento · versión 2.0</dd>
-    <dt>Destinatario</dt><dd>{esc(tomo['destinatario'])}</dd>
-    <dt>Establecimiento</dt>
-    <dd>Establecimiento de estética y belleza. Aviso de Funcionamiento COFEPRIS
-        No. 2509135018X00286 (giro SCIAN 812110)</dd>
-    <dt>Domicilio</dt>
-    <dd>Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610,
-        Alcaldía Miguel Hidalgo, Ciudad de México</dd>
-    <dt>Perímetro de operación</dt>
-    <dd>Servicios estéticos NO INVASIVOS sobre piel intacta. No se realizan actos médicos,
-        procedimientos invasivos ni inyectables de ninguna clase.</dd>
-    <dt>Fecha de emisión</dt><dd>____ / ____ / 20____</dd>
-  </dl>
-  <div class="uso"><b>Instrucciones de uso</b>{esc(tomo['uso'])}</div>
+  <div class="datos">
+    <b>Destinatario:</b> {esc(tomo['destinatario'])}.
+    <b>Establecimiento:</b> estética y belleza, Aviso de Funcionamiento COFEPRIS
+    No. 2509135018X00286 (SCIAN 812110), Av. del Conscripto 13, Col. Manuel Ávila
+    Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, CDMX. Contacto:
+    mirecbi19@gmail.com · 56 1681 8058.
+    <b>Perímetro de operación:</b> servicios estéticos NO INVASIVOS sobre piel intacta;
+    no se realizan actos médicos, procedimientos invasivos ni inyectables.
+    <b>Emisión:</b> ____/____/20____.
+  </div>
+  <div class="uso"><b>Uso e impresión: </b>{esc(tomo['uso'])} {esc(tomo['impresion'])}</div>
   {sello}
   {indice_html(files)}
   <div class="legal">{esc(LEGAL)}</div>
@@ -401,13 +411,18 @@ def portada(tomo, files) -> str:
 def build_pdf(tomo):
     if tomo["dir"] is None:
         files = [BASE / tomo["file"]]
-        cuerpo = f"<div class='doc'>{md_to_html(files[0])}</div>"
     else:
-        d = BASE / tomo["dir"]
-        files = sorted(p for p in d.glob("*.md"))
-        cuerpo = "".join(
-            f"<div class='doc'>{md_to_html(p)}</div>" for p in files
-        )
+        files = sorted(p for p in (BASE / tomo["dir"]).glob("*.md"))
+
+    # Solo se fuerza hoja nueva donde el documento debe poder circular o
+    # firmarse por separado. El resto corre a continuacion, para no gastar hojas.
+    forzadas = tomo.get("hoja_nueva", [])
+    partes = []
+    for i, p in enumerate(files):
+        nueva = i > 0 and (tomo.get("hoja_por_doc") or p.name in forzadas)
+        cls = "doc nueva" if nueva else ("doc sigue" if i > 0 else "doc")
+        partes.append(f"<div class='{cls}'>{md_to_html(p)}</div>")
+    cuerpo = "".join(partes)
 
     pie = "Documento confidencial" if tomo["reservado"] else tomo["label"]
     css = CSS_TMPL.format(
@@ -417,9 +432,10 @@ def build_pdf(tomo):
         base_font=tomo["base_font"],
     )
     body_class = "cartel" if tomo["dir"] == "TOMO_6_AVISOS_PUBLICO" else ""
+    encabezado = portada(tomo, files) if tomo.get("portada", True) else ""
     html = f"""<!DOCTYPE html><html lang="es"><head><meta charset="utf-8">
 <title>{esc(tomo['label'])}</title><style>{css}{CSS_CARTEL.format()}</style></head>
-<body class="{body_class}">{portada(tomo, files)}{cuerpo}</body></html>"""
+<body class="{body_class}">{encabezado}{cuerpo}</body></html>"""
 
     dest = OUT / tomo["pdf"]
     HTML(string=html, base_url=str(BASE)).write_pdf(str(dest))

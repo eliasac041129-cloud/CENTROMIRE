@@ -40,7 +40,7 @@ Nombre y firma del cliente: _______________________________________________
 ☐ **Procede** el servicio estético no invasivo solicitado.
 ☐ **Procede con precauciones:** ______________________________________________________
 ☐ **Se aplaza** hasta: ____________________ Motivo: ______________________________________
-☐ **No procede. Se deriva a valoración médica** y se entrega constancia de derivación (Documento 6). Motivo: ______________________________________________________________
+☐ **No procede. Se deriva a valoración médica** y se entrega constancia de derivación (Documento 4). Motivo: ______________________________________________________________
 ☐ **Requiere indicación médica escrita** (cuidado complementario a procedimiento médico). No se presta servicio hasta recibirla.
 ☐ **Servicio solicitado fuera del giro** (invasivo o inyectable): **se niega y se canaliza a médico externo.** Registrado en control de sesiones.
 

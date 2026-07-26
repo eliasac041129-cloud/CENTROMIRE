@@ -14,7 +14,7 @@
 | Superficie aproximada | |
 | Horario de operación | |
 | Número de personas que laboran | |
-| Correo oficial para notificaciones | contacto@mirebelleza.com |
+| Correo oficial para notificaciones | mirecbi19@gmail.com |
 | Teléfono del establecimiento | 56 1681 8058 |
 
 ## 2. SERVICIOS QUE SE PRESTAN (lista declarada)

@@ -47,7 +47,7 @@ Los resultados **dependen de factores individuales** (tipo de piel, edad, hábit
 ## SÉPTIMA. OBLIGACIONES DEL CLIENTE
 
 1. Informar con veracidad su estado de salud y cualquier cambio posterior.
-2. Cumplir las indicaciones de cuidado posterior que se le entregan por escrito (Documento 6).
+2. Cumplir las indicaciones de cuidado posterior que se le entregan por escrito (Documento 4).
 3. **Avisar de inmediato** ante dolor intenso o creciente, ampollas, secreción, fiebre, endurecimiento, coloración anormal o cualquier signo de alarma, y **acudir a valoración médica**.
 4. No solicitar ni exigir servicios fuera del giro. EL ESTABLECIMIENTO está obligado a negarlos.
 
@@ -57,7 +57,7 @@ EL ESTABLECIMIENTO puede **negar, suspender o dar por terminado** el servicio, e
 
 ## NOVENA. ATENCIÓN DE INCONFORMIDADES
 
-Cualquier inconformidad se presenta directamente en el establecimiento o al correo **contacto@mirebelleza.com**, y se atiende por escrito. Lo anterior sin perjuicio de los derechos que asisten a EL CLIENTE ante PROFECO, la CONDUSEF en su caso, o la autoridad sanitaria.
+Cualquier inconformidad se presenta directamente en el establecimiento o al correo **mirecbi19@gmail.com**, y se atiende por escrito. Lo anterior sin perjuicio de los derechos que asisten a EL CLIENTE ante PROFECO, la CONDUSEF en su caso, o la autoridad sanitaria.
 
 ## DÉCIMA. DATOS PERSONALES
 
