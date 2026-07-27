@@ -15,14 +15,14 @@ Seis tomos. Cada tomo es **un solo PDF continuo, en blanco y negro, listo para i
 
 | Tomo | Contenido | Se imprime | Destinatario | ¿Aparece el nombre de la titular? |
 |---|---|---|---|---|
-| **1** | Expediente del cliente (privacidad, tamizaje, consentimientos, control de sesiones) | Un juego por cliente nuevo | Cliente | **No** |
+| **1** | Ficha de cliente con ficha clínica, valoración y consentimiento; control de sesiones y dos anexos | **Una hoja** por cliente nuevo | Cliente | **No** |
 | **2** | Dictamen de riesgo, matriz de procedimientos, plan de acción, protección patrimonial | Un ejemplar, uso reservado | Titular y sus asesores | **Sí** (es su documento) |
 | **3** | Convenio de colaboración e indicación médica | Un juego por médico | Médico que refiere | **Sí** (es parte contratante) |
 | **4** | Política de servicios, guiones, POE de higiene, urgencias, conducta ante autoridad, confidencialidad | Un juego por persona que trabaja en el centro | Personal | **No** (se firma como "la Titular") |
 | **5** | Carpeta de verificación: ficha del establecimiento, checklist, inventarios y bitácoras | Un ejemplar en carpeta física + copia digital | Autoridad sanitaria en visita | **Sí** (obligatorio ante autoridad) |
-| **6** | Avisos y rótulos para fijar a la vista | Un ejemplar de cada uno | Público | **No** |
+| **6** | Avisos y rótulos para fijar a la vista, y aviso de privacidad integral de recepción | Un ejemplar de cada uno | Público | **No** |
 
-**Regla operativa:** el Tomo 1 se imprime completo y se firma completo. Nunca se firma "solo una hoja".
+**Regla operativa:** la hoja de ficha y consentimiento se llena y se firma **completa** antes del servicio, por los dos lados. Nunca se atiende sin ella.
 
 ### 1.1 Instrucciones de impresión (ahorro de papel)
 
@@ -30,14 +30,14 @@ Los formatos están compuestos para gastar el mínimo de hojas: sin páginas de 
 
 | Tomo | Págs. | Cómo imprimirlo | Hojas |
 |---|---|---|---|
-| 1 · Cliente | 9 | **Doble cara.** Juego base: **páginas 1 a 7**. Anexo A: página 8, solo si viene de cirugía. Anexo B: página 9, solo si autoriza imagen | **4** base |
+| 1 · Cliente | 5 | **Doble cara.** Juego base: **páginas 1 y 2**, una sola hoja por cliente. Control de sesiones: página 3, solo si habrá varias sesiones. Anexo A: página 4, solo si viene de cirugía. Anexo B: página 5, solo si autoriza imagen | **1** base |
 | 2 · Titular | 8 | Doble cara | 4 |
 | 3 · Médico | 5 | Doble cara. Cada instrumento inicia hoja: convenio por duplicado, indicación médica por paciente, carta suelta | 3 |
 | 4 · Personal | 11 | Doble cara. Solo el protocolo de urgencias inicia hoja, porque se fija a la vista en el área de servicio | 6 |
 | 5 · Verificación | 10 | Doble cara. Inventario y bitácoras inician hoja, porque se reemplazan cada mes | 5 |
-| 6 · Avisos al público | 4 | **Una cara**, un aviso por hoja, para fijarlos por separado | 4 |
+| 6 · Avisos al público | 7 | **Una cara**, un aviso por hoja. El aviso de privacidad integral se conserva en recepción para consulta | 7 |
 
-**El costo recurrente es el Tomo 1.** Imprimir el juego base (páginas 1 a 7) en tiros de 20 o 30, engrapado y foliado a mano, y tener copias sueltas de cada anexo. Al editar cualquier documento, regenerar con `python3 _build_expediente.py`: avisa si una página quedó con más de 20% de espacio muerto al pie.
+**El costo recurrente es el Tomo 1:** una hoja por cliente. Imprimirlo en tiros de 30 o 50, foliado a mano, y tener copias sueltas del control de sesiones y de los dos anexos. Al editar cualquier documento, regenerar con `python3 _build_expediente.py`: avisa si una página quedó con más de 20% de espacio muerto al pie.
 
 ---
 
@@ -79,13 +79,8 @@ Este expediente no sirve para aparentar cumplimiento: sirve para **sostener que 
 
 ## 4. CONTROL DE VERSIONES Y RESGUARDO
 
-| Tomo | Última actualización | Revisó | Ubicación física | Copia digital |
-|---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
+| Tomo | 1 | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|---|
+| Última revisión y quién | | | | | | |
 
-**Resguardo:** los Tomos 1 firmados y el Tomo 2 contienen datos sensibles y estrategia legal. Se guardan bajo llave, con acceso exclusivo de la titular. Las copias digitales, en carpeta cifrada o con contraseña; **no en galerías de teléfono ni en chats de WhatsApp.**
+**Resguardo:** las hojas firmadas del Tomo 1 y el Tomo 2 contienen datos sensibles y estrategia legal: bajo llave, con acceso exclusivo de la titular. Copias digitales en carpeta con contraseña; **no en galerías de teléfono ni en chats de WhatsApp.**

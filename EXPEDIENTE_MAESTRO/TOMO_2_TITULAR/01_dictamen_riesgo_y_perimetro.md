@@ -53,7 +53,7 @@ El perímetro no se sostiene con voluntad, se sostiene con **hechos verificables
 1. **Que no haya insumos invasivos en el local.** Ni agujas, ni cánulas, ni jeringas, ni viales de inyectables, ni anestésicos tópicos de uso médico, ni dermapen o cartuchos de microneedling. El insumo hallado en una visita **prueba por sí mismo** el servicio, aunque no se haya prestado nunca.
 2. **Que no exista rastro comercial del servicio.** Publicaciones, historias destacadas, listas de precios, catálogos, respuestas por mensaje directo, capturas. Ofrecer ya es infracción.
 3. **Que no haya facturas de compra** de producto inyectable a nombre del establecimiento ni de la titular. La trazabilidad del proveedor es la ruta más directa a un caso.
-4. **Que cada negativa quede registrada.** El registro de servicios negados y derivados es prueba activa de cumplimiento (Tomo 1, Documento 5).
+4. **Que cada negativa quede registrada.** El registro de servicios negados y derivados es prueba activa de cumplimiento (Tomo 1, control de sesiones).
 5. **Que el personal sepa decir no sin perder a la clienta** (Tomo 4, guiones).
 
 ### 4.3 Qué se responde cuando la clienta insiste

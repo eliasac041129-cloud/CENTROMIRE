@@ -13,7 +13,7 @@ Ante cualquier reacción o malestar: **primero se detiene el servicio, después 
 3. **Observar y anotar** la hora, el síntoma y lo que se hizo.
 4. **Avisar a la Titular** de inmediato.
 5. **Valorar la gravedad** conforme al cuadro del apartado 3.
-6. **Derivar** con constancia escrita (Tomo 1, Documento 4) o llamar a servicios de emergencia.
+6. **Derivar** con constancia escrita (Tomo 1, punto 11 de la hoja de consentimiento) o llamar a servicios de emergencia.
 7. **Registrar** el evento en la bitácora de incidentes el mismo día.
 8. **Dar seguimiento** al cliente en 24-48 horas y documentar la llamada.
 

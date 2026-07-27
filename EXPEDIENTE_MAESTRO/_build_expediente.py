@@ -40,19 +40,18 @@ TOMOS = [
         "dir": "TOMO_1_CLIENTE",
         "pdf": "TOMO_1_CLIENTE.pdf",
         "portada": False,
-        "impresion": "Imprimir A DOBLE CARA. Juego base: paginas 1 a 7 (4 hojas). Anexo A: paginas 8 y 9, solo si el cliente viene de un procedimiento medico. Anexo B: pagina 10, solo si autoriza el uso de su imagen.",
-        "hoja_por_doc": False,
-        "hoja_nueva": ["07_anexo_a_cuidado_postmedico.md", "08_anexo_b_uso_imagen.md"],
+        "impresion": "Imprimir A DOBLE CARA. Juego base: paginas 1 y 2, una sola hoja por cliente. "
+        "Control de sesiones: pagina 3, solo si habra varias sesiones. Anexo A: pagina 4, solo si "
+        "viene de un procedimiento medico. Anexo B: pagina 5, solo si autoriza el uso de su imagen.",
+        "hoja_por_doc": True,
         "label": "Tomo 1 · Cliente",
         "titulo": "TOMO 1\nEXPEDIENTE DEL CLIENTE",
         "destinatario": "Cliente",
         "reservado": False,
         "uso": (
-            "Se imprimen y firman completos los documentos 1 a 5 por cada cliente nuevo. "
-            "El Anexo A solo se imprime cuando el cliente viene de un procedimiento médico y "
-            "el Anexo B solo si autoriza el uso de su imagen. Se entrega copia del "
-            "consentimiento y de las indicaciones al cliente; el expediente firmado se "
-            "archiva por folio, bajo llave."
+            "Una sola hoja por cliente: ficha y consentimiento. Se llena y se firma completa antes del "
+            "servicio y se entrega copia al cliente. Las demas hojas se imprimen solo cuando "
+            "aplican. El expediente firmado se archiva por folio, bajo llave.",
         ),
         "base_font": "10pt",
     },
@@ -240,6 +239,11 @@ th, td {{
 }}
 th {{ font-weight: bold; text-transform: uppercase; font-size: 7.5pt; }}
 td.v {{ height: 12pt; }}
+
+/* tablas de datos: etiqueta angosta y espacio de llenado parejo */
+table.datos {{ table-layout: fixed; }}
+table.datos td {{ height: 12pt; }}
+table.datos td.et {{ width: 22%; font-weight: normal; }}
 thead {{ display: table-header-group; }}
 tr {{ break-inside: avoid; }}
 
@@ -396,6 +400,7 @@ LEGAL = (
 
 def portada(tomo, files) -> str:
     titulo = esc(tomo["titulo"])
+    marca = esc(tomo.get("establecimiento", ESTABLECIMIENTO))
     sello = (
         "<div class='sello'>Documento confidencial - uso reservado de la titular</div>"
         if tomo["reservado"]
@@ -403,7 +408,7 @@ def portada(tomo, files) -> str:
     )
     return f"""
 <div class="portada">
-  <div class="marca">{esc(ESTABLECIMIENTO)} &nbsp;·&nbsp; Expediente maestro de
+  <div class="marca">{marca} &nbsp;·&nbsp; Expediente maestro de
     cumplimiento v2.0 &nbsp;·&nbsp; {esc(tomo['label'])}</div>
   <h1>{titulo}</h1>
   <div class="datos">
@@ -442,7 +447,7 @@ def build_pdf(tomo):
 
     pie = "Documento confidencial" if tomo["reservado"] else tomo["label"]
     css = CSS_TMPL.format(
-        establecimiento=ESTABLECIMIENTO,
+        establecimiento=tomo.get("establecimiento", ESTABLECIMIENTO),
         label=tomo["label"],
         pie=pie,
         base_font=tomo["base_font"],
