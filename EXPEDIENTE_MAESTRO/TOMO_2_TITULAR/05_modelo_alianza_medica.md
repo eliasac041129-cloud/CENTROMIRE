@@ -6,25 +6,25 @@
 
 La demanda de procedimientos inyectables existe y la competencia informal la atiende sin cédula. La pregunta útil no es *"cómo hacerlo nosotras"* —eso es acto médico y no tiene vía legal para una cosmiatra—, sino **"cómo cobrar por participar en ese ciclo sin ejecutar el acto"**.
 
-Respuesta: el inyectable es un evento de minutos; el **ciclo de piel y cuidado alrededor de él** son semanas de servicios no invasivos, recurrentes y de margen alto. Ese ciclo sí es de Centro Mirë.
+Respuesta: el inyectable es un evento de minutos; el **ciclo de piel y cuidado alrededor de él** son semanas de servicios no invasivos, recurrentes y de margen alto. Ese ciclo sí es de Mirë.
 
 ## 2. REPARTO DE ACTIVIDADES Y DE INGRESO
 
 | Etapa | Quién la ejecuta | Quién factura | Naturaleza |
 |---|---|---|---|
 | Valoración y decisión del procedimiento | Médico con cédula | Médico | Acto médico |
-| Preparación de la piel (limpieza, hidratación, protocolo previo) | Centro Mirë | Centro Mirë | Estético no invasivo |
+| Preparación de la piel (limpieza, hidratación, protocolo previo) | Mirë | Mirë | Estético no invasivo |
 | Aplicación del inyectable | **Médico, exclusivamente** | Médico | Acto médico |
-| Cuidado posterior no invasivo por indicación escrita | Centro Mirë | Centro Mirë | Estético no invasivo |
-| Mantenimiento y seguimiento estético de piel | Centro Mirë | Centro Mirë | Estético no invasivo |
-| Uso de espacio y horario | Centro Mirë | Centro Mirë (contraprestación fija) | Uso de inmueble |
+| Cuidado posterior no invasivo por indicación escrita | Mirë | Mirë | Estético no invasivo |
+| Mantenimiento y seguimiento estético de piel | Mirë | Mirë | Estético no invasivo |
+| Uso de espacio y horario | Mirë | Mirë (contraprestación fija) | Uso de inmueble |
 
 ## 3. LAS CUATRO REGLAS QUE HACEN LÍCITO EL MODELO
 
-1. **Facturación separada.** El paciente paga al médico lo médico y a Centro Mirë lo estético. Nunca un solo cobro global por "paquete" que incluya el inyectable. Cobrar el acto médico y repartirlo después es lo que convierte el modelo en simulación.
-2. **Contraprestación fija por espacio, nunca comisión por procedimiento.** Renta por hora o por día, en monto determinado y con contrato. Un porcentaje sobre cada inyección coloca a Centro Mirë como partícipe económico del acto médico.
-3. **Publicidad separada y atribuida.** El inyectable se anuncia **con el nombre, especialidad y cédula del médico**, en sus propios canales o en un anuncio claramente identificado como del médico. Centro Mirë anuncia **solo** sus servicios no invasivos. Si el logo de Mirë aparece ofreciendo inyectables, la infracción publicitaria es de Mirë, aunque el médico lo aplique.
-4. **Separación material y de expediente.** El médico integra su propio expediente clínico (NOM-004-SSA3-2012), lleva y retira **sus** insumos y **sus** punzocortantes conforme a la NOM-087-ECOL-SSA1-2002. En Centro Mirë no se almacenan viales, agujas ni contenedores de punzocortantes: si permanecen ahí, el hallazgo se imputa al establecimiento.
+1. **Facturación separada.** El paciente paga al médico lo médico y a Mirë lo estético. Nunca un solo cobro global por "paquete" que incluya el inyectable. Cobrar el acto médico y repartirlo después es lo que convierte el modelo en simulación.
+2. **Contraprestación fija por espacio, nunca comisión por procedimiento.** Renta por hora o por día, en monto determinado y con contrato. Un porcentaje sobre cada inyección coloca a Mirë como partícipe económico del acto médico.
+3. **Publicidad separada y atribuida.** El inyectable se anuncia **con el nombre, especialidad y cédula del médico**, en sus propios canales o en un anuncio claramente identificado como del médico. Mirë anuncia **solo** sus servicios no invasivos. Si el logo de Mirë aparece ofreciendo inyectables, la infracción publicitaria es de Mirë, aunque el médico lo aplique.
+4. **Separación material y de expediente.** El médico integra su propio expediente clínico (NOM-004-SSA3-2012), lleva y retira **sus** insumos y **sus** punzocortantes conforme a la NOM-087-ECOL-SSA1-2002. En Mirë no se almacenan viales, agujas ni contenedores de punzocortantes: si permanecen ahí, el hallazgo se imputa al establecimiento.
 
 ## 4. TRES ESQUEMAS, DE MENOR A MAYOR EXPOSICIÓN
 
@@ -51,7 +51,7 @@ Bandera roja: el médico que propone que "el personal aplique y él supervise a 
 
 > *"Los inyectables los realiza un médico, con su cédula y su responsabilidad; nosotras no los aplicamos. Lo que sí hacemos —y es lo que hace que un resultado se vea bien y dure— es preparar tu piel antes y darte el cuidado posterior. Te agendo la valoración con el médico y en paralelo armamos tu protocolo de piel aquí."*
 
-Efecto: se conserva a la clienta, se abre un servicio propio y facturable, y queda registrado que Centro Mirë **negó** el procedimiento fuera de su giro.
+Efecto: se conserva a la clienta, se abre un servicio propio y facturable, y queda registrado que Mirë **negó** el procedimiento fuera de su giro.
 
 ## 7. DECISIÓN
 

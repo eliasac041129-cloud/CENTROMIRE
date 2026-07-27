@@ -18,7 +18,7 @@ from weasyprint import HTML
 BASE = Path(__file__).resolve().parent
 OUT = BASE / "PDF"
 
-ESTABLECIMIENTO = "CENTRO MIRË DE BELLEZA INTEGRAL Y DISEÑO"
+ESTABLECIMIENTO = "MIRË CENTRO DE BELLEZA INTEGRAL"
 
 # ---------------------------------------------------------------- metadatos
 

@@ -4,7 +4,7 @@
 
 | Dato | Registro |
 |---|---|
-| Nombre comercial | CENTRO MIRË DE BELLEZA INTEGRAL Y DISEÑO |
+| Nombre comercial | MIRË CENTRO DE BELLEZA INTEGRAL |
 | Titular (persona física) | C. Mirely Jiménez Regalado |
 | RFC | |
 | Aviso de Funcionamiento COFEPRIS | 2509135018X00286 |

@@ -1,6 +1,6 @@
 # LINEAMIENTOS DE PUBLICIDAD, REDES SOCIALES Y MENSAJERÍA
 
-**Aplica a quien publique, responda mensajes o atienda WhatsApp en nombre de Centro Mirë.**
+**Aplica a quien publique, responda mensajes o atienda WhatsApp en nombre de Mirë.**
 
 ## 1. POR QUÉ ESTO IMPORTA MÁS QUE EL RESTO
 

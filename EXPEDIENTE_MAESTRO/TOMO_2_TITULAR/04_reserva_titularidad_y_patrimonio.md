@@ -4,7 +4,7 @@
 
 ## 1. OBJETIVO Y LÍMITE HONESTO DE LA MEDIDA
 
-Objetivo: que la marca **Centro Mirë** sea lo visible y que la identidad de la titular **no circule** en el trato con clientes, público y proveedores no esenciales.
+Objetivo: que la marca **Mirë** sea lo visible y que la identidad de la titular **no circule** en el trato con clientes, público y proveedores no esenciales.
 
 Límite honesto: mientras el negocio opere como **persona física**, la reserva es **parcial**. El Aviso de Funcionamiento, el RFC, la facturación y el domicilio fiscal identifican a la titular, y buena parte de esa información es consultable. La reserva reduce la exposición cotidiana; **no crea anonimato** y no debe presentarse como blindaje frente a autoridad.
 
@@ -12,7 +12,7 @@ Límite honesto: mientras el negocio opere como **persona física**, la reserva 
 
 | Documento o canal | Cómo se identifica al obligado | Nombre de la titular |
 |---|---|---|
-| Aviso de privacidad, consentimientos y expediente del cliente | "CENTRO MIRË DE BELLEZA INTEGRAL Y DISEÑO", domicilio, correo, número de aviso sanitario | **No** |
+| Aviso de privacidad, consentimientos y expediente del cliente | "MIRË CENTRO DE BELLEZA INTEGRAL", domicilio, correo, número de aviso sanitario | **No** |
 | Avisos y rótulos al público | Nombre comercial | **No** |
 | Redes sociales, sitio web, catálogo, publicidad | Nombre comercial | **No** |
 | Documentos del personal | "la Titular del Establecimiento" y su firma | **No** en el cuerpo |

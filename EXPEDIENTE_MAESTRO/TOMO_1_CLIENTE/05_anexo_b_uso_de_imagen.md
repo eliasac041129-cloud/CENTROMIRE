@@ -6,7 +6,7 @@
 
 ## PRIMERA. OBJETO
 
-EL CLIENTE autoriza a **CENTRO MIRË DE BELLEZA INTEGRAL Y DISEÑO** (**EL ESTABLECIMIENTO**) el uso de su imagen, voz y testimonio, captados con motivo de los servicios estéticos recibidos, en los términos y con los límites de este documento. La autorización es **gratuita**, salvo pacto distinto por escrito.
+EL CLIENTE autoriza a **MIRË CENTRO DE BELLEZA INTEGRAL** (**EL ESTABLECIMIENTO**) el uso de su imagen, voz y testimonio, captados con motivo de los servicios estéticos recibidos, en los términos y con los límites de este documento. La autorización es **gratuita**, salvo pacto distinto por escrito.
 
 ## SEGUNDA. ALCANCE AUTORIZADO (marcar únicamente lo autorizado)
 

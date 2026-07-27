@@ -1,8 +1,8 @@
 # AVISO DE PRIVACIDAD SIMPLIFICADO
 
-## CENTRO MIRË DE BELLEZA INTEGRAL Y DISEÑO
+## MIRË CENTRO DE BELLEZA INTEGRAL
 
-**Responsable del tratamiento de sus datos personales:** CENTRO MIRË DE BELLEZA INTEGRAL Y DISEÑO, establecimiento de estética y belleza con Aviso de Funcionamiento COFEPRIS No. 2509135018X00286, con domicilio en Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, Ciudad de México.
+**Responsable del tratamiento de sus datos personales:** MIRË CENTRO DE BELLEZA INTEGRAL, establecimiento de estética y belleza con Aviso de Funcionamiento COFEPRIS No. 2509135018X00286, con domicilio en Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, Ciudad de México.
 
 **¿Para qué usamos sus datos?** Para identificarle como cliente, agendar sus citas, **valorar la seguridad del servicio estético** que solicita, integrar su expediente, emitir sus comprobantes de pago y atender aclaraciones y requerimientos legales.
 

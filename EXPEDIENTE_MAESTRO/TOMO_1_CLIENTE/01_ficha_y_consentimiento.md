@@ -1,6 +1,6 @@
 # FICHA DE CLIENTE, VALORACIÓN Y CONSENTIMIENTO
 
-**CENTRO MIRË DE BELLEZA INTEGRAL Y DISEÑO**<br>Centro de estética y belleza · Aviso de Funcionamiento COFEPRIS 2509135018X00286 (SCIAN 812110) · Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Miguel Hidalgo, CDMX · mirecbi19@gmail.com · 56 1681 8058
+**MIRË CENTRO DE BELLEZA INTEGRAL**<br>Centro de estética y belleza · Aviso de Funcionamiento COFEPRIS 2509135018X00286 (SCIAN 812110) · Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Miguel Hidalgo, CDMX · mirecbi19@gmail.com · 56 1681 8058
 
 **Folio:** ______________  **Fecha:** ____/____/20____  **Te atiende:** ____________________
 
