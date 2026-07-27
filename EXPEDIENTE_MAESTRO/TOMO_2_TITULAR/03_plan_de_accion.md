@@ -36,7 +36,7 @@ Orden de ejecución por criterio de exposición: primero lo que puede provocar u
 | 16 | Verificar situación ante la **Alcaldía Miguel Hidalgo**: aviso de establecimiento mercantil, uso de suelo y, si aplica, licencia de anuncio | Acuses de trámite | ☐ |
 | 17 | Cumplir **protección civil**: extintor vigente, señalización, ruta de evacuación, botiquín y, si aplica por aforo o superficie, programa interno | Constancias y fotografías | ☐ |
 | 18 | Si hay personal: **alta en el IMSS**, contratos escritos, cumplimiento de la NOM-035-STPS-2018 | Altas y contratos archivados | ☐ |
-| 19 | **Registrar la marca** "Centro Mirë" ante el IMPI (clase 44 y, si aplica, 3 y 35) | Acuse y, en su momento, título de registro | ☐ |
+| 19 | **Registrar la marca** "Mirë" ante el IMPI (clase 44 y, si aplica, 3 y 35) | Acuse y, en su momento, título de registro | ☐ |
 | 20 | Evaluar con contador y abogado la **constitución de persona moral** y la migración de aviso sanitario, contratos y facturación | Dictamen escrito de la decisión | ☐ |
 | 21 | Implementar el **modelo de alianza médica** para captar la demanda de procedimientos médicos sin ejecutarlos | Convenio y reglas de publicidad firmadas | ☐ |
 

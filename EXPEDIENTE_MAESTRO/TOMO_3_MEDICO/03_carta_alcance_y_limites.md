@@ -4,11 +4,11 @@
 
 **Ciudad de México, a ____ de __________________ de 20____.**  **Para:** Dr./Dra. _____________________________________________
 
-**Asunto:** Alcance de los servicios que Centro Mirë puede prestar a sus pacientes.
+**Asunto:** Alcance de los servicios que Mirë puede prestar a sus pacientes.
 
 Estimado(a) doctor(a): para que la colaboración se dé con seguridad para su paciente y con claridad de responsabilidades, le informamos con precisión qué podemos y qué no podemos hacer.
 
-## 1. QUÉ ES CENTRO MIRË
+## 1. QUÉ ES MIRË CENTRO DE BELLEZA INTEGRAL
 
 Establecimiento de **estética y belleza** con Aviso de Funcionamiento COFEPRIS No. 2509135018X00286, giro SCIAN 812110. Nuestro personal es **técnico en estética y cosmiatría**: no somos personal de salud y **no operamos como unidad médica**.
 
@@ -40,4 +40,4 @@ Su paciente recibe el cuidado estético dentro de un perímetro **claro, documen
 
 Atentamente,
 
-<table class="firmas"><tr><td><b>CENTRO MIRË DE BELLEZA INTEGRAL Y DISEÑO</b><br><br>_______________________________________<br>La Titular del Establecimiento</td><td><b>ACUSE (opcional)</b><br>Recibí y quedé enterado(a) del alcance y límites descritos.<br><br>_______________________________________<br>Nombre, firma y cédula · Fecha ____/____/20____</td></tr></table>
+<table class="firmas"><tr><td><b>MIRË CENTRO DE BELLEZA INTEGRAL</b><br><br>_______________________________________<br>La Titular del Establecimiento</td><td><b>ACUSE (opcional)</b><br>Recibí y quedé enterado(a) del alcance y límites descritos.<br><br>_______________________________________<br>Nombre, firma y cédula · Fecha ____/____/20____</td></tr></table>

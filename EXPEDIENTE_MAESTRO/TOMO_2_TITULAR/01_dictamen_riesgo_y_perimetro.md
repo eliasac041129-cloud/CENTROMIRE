@@ -42,7 +42,7 @@ Reclamación por daño, por resultado no obtenido o por promesa incumplida. Se c
 
 Regla única, sin excepciones ni casos especiales:
 
-> **Si el procedimiento rompe la barrera de la piel o introduce cualquier sustancia en el organismo, no se hace en Centro Mirë. Sin importar quién lo pida, cuánto pague, qué haga la competencia o qué tan "mínimo" parezca.**
+> **Si el procedimiento rompe la barrera de la piel o introduce cualquier sustancia en el organismo, no se hace en Mirë. Sin importar quién lo pida, cuánto pague, qué haga la competencia o qué tan "mínimo" parezca.**
 
 ### 4.1 Por qué "mínimamente invasivo" no es una categoría útil
 Es un término comercial, no jurídico. La ley no gradúa la invasión: distingue entre **acto estético** y **acto médico**. Cualquier inyección —mesoterapia, ácido hialurónico no reticulado, vitaminas, lipolíticos, plasma, toxina— es acto médico completo, reservado a quien tiene título y cédula. Llamarlo "mínimo" no cambia la calificación legal; solo documenta que se conocía la naturaleza del acto, lo que **agrava** la posición.
