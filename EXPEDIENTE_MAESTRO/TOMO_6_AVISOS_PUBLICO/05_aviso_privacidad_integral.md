@@ -1,6 +1,6 @@
-# DOCUMENTO 1. AVISO DE PRIVACIDAD INTEGRAL
+# AVISO DE PRIVACIDAD INTEGRAL
 
-**Folio de expediente:** ____________________  **Fecha:** ____ / ____ / 20____
+**Ejemplar de consulta. Se conserva en recepción a la vista del público y se entrega copia al cliente que lo solicite. El consentimiento de datos se recaba en la hoja de ficha y consentimiento del cliente.**
 
 ## PRIMERA. RESPONSABLE
 
@@ -65,18 +65,8 @@ Si usted autoriza la difusión de sus imágenes, reconoce que las publicaciones 
 
 Este aviso puede modificarse por reformas legales, requerimientos de autoridad o cambios en el servicio. La versión vigente estará disponible en el establecimiento y en los canales oficiales de EL ESTABLECIMIENTO.
 
----
+## CONSENTIMIENTO
 
-## CONSENTIMIENTO DEL TITULAR DE LOS DATOS
+El consentimiento del titular de los datos —incluido el **expreso y por escrito** para el tratamiento de datos sensibles de salud y de imágenes— se recaba en la **hoja de ficha de cliente, valoración y consentimiento** que se firma antes de cada servicio, y queda en el expediente del cliente.
 
-Manifiesto que **leí y comprendí** el presente Aviso de Privacidad y que me fue puesto a la vista antes de la prestación del servicio.
-
-**A. Datos personales sensibles (salud), necesarios para la seguridad del servicio.** Consiento expresamente su tratamiento para las finalidades primarias: **☐ Sí consiento**  ☐ No consiento *(la negativa impide prestar el servicio con seguridad y, por tanto, su prestación).*
-
-**B. Imágenes para control técnico interno** (registro comparativo, sin difusión): **☐ Sí consiento**  ☐ No consiento
-
-**C. Finalidades secundarias** (difusión y publicidad, envío de promociones): **☐ Sí consiento**  ☐ **No consiento** *(su negativa no afecta el servicio).*
-
-<table class="firmas"><tr><td><b>Nombre del titular de los datos</b><br><br>_______________________________________<br>Firma</td><td><b>Recibió por EL ESTABLECIMIENTO</b><br><br>_______________________________________<br>Nombre y firma de quien atiende</td></tr></table>
-
-Lugar y fecha: Ciudad de México, a ____ de __________________ de 20____.
+**Copia a solicitud.** Cualquier cliente puede pedir copia de este aviso en recepción o al correo mirecbi19@gmail.com.

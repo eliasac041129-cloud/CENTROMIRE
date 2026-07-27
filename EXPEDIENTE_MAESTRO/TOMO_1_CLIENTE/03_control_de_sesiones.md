@@ -1,4 +1,4 @@
-# DOCUMENTO 5. CONTROL DE SESIONES
+# CONTROL DE SESIONES
 
 **Folio:** ____________________  **Cliente:** _____________________________________________
 
@@ -16,6 +16,10 @@ Este control se llena **en el momento de cada sesión**, con tinta, sin espacios
 | 8 | | | | | | | | |
 | 9 | | | | | | | | |
 | 10 | | | | | | | | |
+| 11 | | | | | | | | |
+| 12 | | | | | | | | |
+| 13 | | | | | | | | |
+| 14 | | | | | | | | |
 
 ## REGISTRO DE INCIDENTES, NEGATIVAS Y DERIVACIONES
 
@@ -23,6 +27,9 @@ Se anota **todo** evento relevante: reacción adversa, suspensión, servicio neg
 
 | Fecha | Descripción del evento | Acción tomada | Constancia entregada | Firma operador |
 |---|---|---|---|---|
+| | | | ☐ Sí ☐ No | |
+| | | | ☐ Sí ☐ No | |
+| | | | ☐ Sí ☐ No | |
 | | | | ☐ Sí ☐ No | |
 | | | | ☐ Sí ☐ No | |
 | | | | ☐ Sí ☐ No | |
