@@ -168,7 +168,12 @@ CSS_TMPL = """
   }}
 }}
 
-* {{ color: #000 !important; box-sizing: border-box; }}
+/* Linea de separacion en dorado oscuro. Se eligio un tono con suficiente
+   densidad para que, impreso en blanco y negro, siga leyendose como regla y no
+   se aclare hasta desaparecer. Texto, casillas y bordes de tabla siguen en
+   negro: son lo que se llena a mano y lo que se fotocopia. */
+* {{ box-sizing: border-box; }}
+body, td, th, li, p, h1, h2, h3, blockquote, div, span {{ color: #000; }}
 
 html {{ font-family: "Liberation Serif", "DejaVu Serif", serif; }}
 body {{
@@ -184,7 +189,7 @@ body {{
 .portada {{ text-align: left; margin-bottom: 9pt; }}
 .portada .marca {{
   font-size: 8.5pt; letter-spacing: .05em; text-transform: uppercase;
-  border-bottom: 1.4pt solid #000; padding-bottom: 2pt; margin-bottom: 6pt;
+  border-bottom: 1.4pt solid #8C6A11; padding-bottom: 2pt; margin-bottom: 6pt;
 }}
 .portada h1 {{
   font-size: 13pt; line-height: 1.18; margin: 0 0 4pt 0; text-transform: uppercase;
@@ -198,7 +203,7 @@ body {{
 }}
 .portada .uso b {{ text-transform: uppercase; letter-spacing: .05em; }}
 .portada .sello {{
-  border: 1.3pt solid #000; padding: 3pt 6pt; font-size: 8.5pt; font-weight: bold;
+  border: 1.3pt solid #8C6A11; padding: 3pt 6pt; font-size: 8.5pt; font-weight: bold;
   text-transform: uppercase; text-align: center; margin-bottom: 5pt;
 }}
 .portada .indice {{ font-size: 8pt; line-height: 1.3; margin-bottom: 5pt; }}
@@ -206,23 +211,23 @@ body {{
 
 /* ---- documentos ---- */
 .doc.nueva {{ page-break-before: always; }}
-.doc.sigue {{ border-top: 1.2pt solid #000; padding-top: 7pt; margin-top: 10pt; }}
+.doc.sigue {{ border-top: 1.2pt solid #8C6A11; padding-top: 7pt; margin-top: 10pt; }}
 
 h1 {{
   font-size: 11.5pt; text-transform: uppercase; text-align: center; margin: 0 0 6pt 0;
-  padding-bottom: 3pt; border-bottom: 1.2pt solid #000; line-height: 1.2;
+  padding-bottom: 3pt; border-bottom: 1.2pt solid #8C6A11; line-height: 1.2;
   page-break-after: avoid;
 }}
 h2 {{
   font-size: 9.5pt; text-transform: uppercase; margin: 8pt 0 3pt 0;
-  border-bottom: .5pt solid #000; padding-bottom: 1pt; page-break-after: avoid;
+  border-bottom: .6pt solid #8C6A11; padding-bottom: 1pt; page-break-after: avoid;
 }}
 h3 {{ font-size: 9.5pt; margin: 6pt 0 2pt 0; page-break-after: avoid; }}
 p {{ margin: 0 0 3.5pt 0; }}
 ol, ul {{ margin: 0 0 3.5pt 0; padding-left: 14pt; }}
 li {{ margin-bottom: 1.5pt; }}
 strong {{ font-weight: bold; }}
-hr {{ border: 0; border-top: .7pt solid #000; margin: 7pt 0; }}
+hr {{ border: 0; border-top: .8pt solid #8C6A11; margin: 7pt 0; }}
 
 blockquote {{
   margin: 5pt 0; padding: 4pt 7pt; border: .7pt solid #000; font-size: 9.5pt;
