@@ -49,7 +49,7 @@
 4. Me obligo a atender las consultas y avisos que el establecimiento me dirija sobre este paciente y a **reevaluarlo** cuando se me informe cualquier signo de alarma.
 5. Esta indicación **pierde validez** al concluir su vigencia o si el paciente presenta herida abierta, infección o cualquier signo de alarma, casos en los que el establecimiento debe suspender y remitirlo conmigo.
 
-<table class="firmas"><tr><td><b>EL MÉDICO</b><br><br>_______________________________________<br>Nombre, firma y cédula profesional<br>Sello</td><td><b>RECIBIÓ MIRË CENTRO DE BELLEZA INTEGRAL</b><br><br>_______________________________________<br>Nombre, firma y fecha<br>Se anexa al expediente folio: __________</td></tr></table>
+<table class="firmas"><tr><td><b>EL MÉDICO</b><br><br>_______________________________________<br>Nombre, firma y cédula profesional<br>Sello</td><td><b>RECIBIÓ MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO</b><br><br>_______________________________________<br>Nombre, firma y fecha<br>Se anexa al expediente folio: __________</td></tr></table>
 
 ---
 

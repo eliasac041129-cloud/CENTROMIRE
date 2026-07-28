@@ -6,7 +6,7 @@
 
 En la Ciudad de México, a ____ de __________________ de 20____, comparecen:
 
-**I. LA C. MIRELY JIMÉNEZ REGALADO**, por su propio derecho, en su calidad de titular del establecimiento de estética y belleza que opera bajo el nombre comercial **MIRË CENTRO DE BELLEZA INTEGRAL**, con Aviso de Funcionamiento COFEPRIS No. 2509135018X00286 (giro SCIAN 812110) y domicilio en Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, Ciudad de México, en adelante **EL ESTABLECIMIENTO**.
+**I. LA C. MIRELY JIMÉNEZ REGALADO**, por su propio derecho, en su calidad de titular del establecimiento de estética y belleza que opera bajo el nombre comercial **MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO**, con Aviso de Funcionamiento COFEPRIS No. 2509135018X00286 (giro SCIAN 812110) y domicilio en Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, Ciudad de México, en adelante **EL ESTABLECIMIENTO**.
 
 **II. EL DR./LA DRA. ____________________________________________**, médico cirujano con Título Profesional y Cédula Profesional No. ____________, especialidad en ____________________ con Cédula de Especialidad No. ____________, con domicilio profesional en ______________________________________________ y RFC ______________, en adelante **EL MÉDICO**.
 
@@ -57,6 +57,6 @@ EL MÉDICO: ____________________________  EL ESTABLECIMIENTO: __________________
 
 Leído el convenio y sabedoras las partes de su contenido y alcance, lo firman por duplicado.
 
-<table class="firmas"><tr><td><b>EL ESTABLECIMIENTO</b><br><br>_______________________________________<br>C. Mirely Jiménez Regalado<br>Titular de Mirë Centro de Belleza Integral</td><td><b>EL MÉDICO</b><br><br>_______________________________________<br>Nombre, firma y cédula profesional</td></tr></table>
+<table class="firmas"><tr><td><b>EL ESTABLECIMIENTO</b><br><br>_______________________________________<br>C. Mirely Jiménez Regalado<br>Titular de Mirë Centro de Belleza Integral y Diseño</td><td><b>EL MÉDICO</b><br><br>_______________________________________<br>Nombre, firma y cédula profesional</td></tr></table>
 
 **Anexos:** ☐ Copia de título y cédula profesional ☐ Copia de identificación oficial ☐ Carátula de póliza de responsabilidad civil profesional ☐ Formato de indicación médica

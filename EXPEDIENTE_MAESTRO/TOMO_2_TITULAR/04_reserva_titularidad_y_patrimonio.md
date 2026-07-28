@@ -12,7 +12,7 @@ Límite honesto: mientras el negocio opere como **persona física**, la reserva 
 
 | Documento o canal | Cómo se identifica al obligado | Nombre de la titular |
 |---|---|---|
-| Aviso de privacidad, consentimientos y expediente del cliente | "MIRË CENTRO DE BELLEZA INTEGRAL", domicilio, correo, número de aviso sanitario | **No** |
+| Aviso de privacidad, consentimientos y expediente del cliente | "MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO", domicilio, correo, número de aviso sanitario | **No** |
 | Avisos y rótulos al público | Nombre comercial | **No** |
 | Redes sociales, sitio web, catálogo, publicidad | Nombre comercial | **No** |
 | Documentos del personal | "la Titular del Establecimiento" y su firma | **No** en el cuerpo |

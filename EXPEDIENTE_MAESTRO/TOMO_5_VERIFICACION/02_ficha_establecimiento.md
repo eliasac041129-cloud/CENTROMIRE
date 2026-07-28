@@ -4,13 +4,14 @@
 
 | Dato | Registro |
 |---|---|
-| Nombre comercial | MIRË CENTRO DE BELLEZA INTEGRAL |
+| Nombre comercial | MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO |
 | Titular (persona física) | C. Mirely Jiménez Regalado |
 | RFC | |
 | Aviso de Funcionamiento COFEPRIS | 2509135018X00286 |
 | Fecha del aviso | |
 | Giro / actividad | SCIAN 812110 — Salones y clínicas de belleza y peluquerías |
-| Domicilio del establecimiento | Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, CDMX |
+| Domicilio del establecimiento | Avenida del Conscripto No. 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, CDMX |
+| Ubicación asentada en el aviso | Entre Calle Acueducto de Río Lerma y Calle 1 · Vialidad posterior: Avenida Narciso Mendoza · Referencia: enfrente al campo militar |
 | Superficie aproximada | |
 | Horario de operación | |
 | Número de personas que laboran | |

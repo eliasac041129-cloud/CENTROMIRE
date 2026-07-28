@@ -1,6 +1,6 @@
-# EXPEDIENTE MAESTRO DE CUMPLIMIENTO — MIRË CENTRO DE BELLEZA INTEGRAL
+# EXPEDIENTE MAESTRO DE CUMPLIMIENTO — MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO
 
-**Establecimiento:** MIRË CENTRO DE BELLEZA INTEGRAL
+**Establecimiento:** MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO
 **Giro autorizado:** SCIAN 812110 — Salones y clínicas de belleza y peluquerías
 **Aviso de Funcionamiento COFEPRIS:** 2509135018X00286
 **Domicilio:** Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, Ciudad de México
@@ -46,7 +46,7 @@ Los formatos están compuestos para gastar el mínimo de hojas: sin páginas de 
 La instrucción es que **la titularidad del negocio no se difunda** salvo donde sea necesaria. Así se implementa en este expediente:
 
 ### 2.1 Documentos donde NO se imprime el nombre de la titular
-Cliente, personal y público. En ellos el sujeto obligado se identifica como **"MIRË CENTRO DE BELLEZA INTEGRAL"** (nombre comercial del establecimiento), con domicilio, correo y número de Aviso de Funcionamiento. Quien firma lo hace como **"la Titular del Establecimiento"** o **"quien atiende"**, sin asentar el nombre en el cuerpo impreso.
+Cliente, personal y público. En ellos el sujeto obligado se identifica como **"MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO"** (nombre comercial del establecimiento), con domicilio, correo y número de Aviso de Funcionamiento. Quien firma lo hace como **"la Titular del Establecimiento"** o **"quien atiende"**, sin asentar el nombre en el cuerpo impreso.
 
 Sustento: la LFPDPPP exige identificar al **responsable** y su domicilio, no exhibir su nombre de nacimiento; el nombre comercial del establecimiento, más domicilio y medio de contacto, es identificación suficiente y verificable. En el Aviso de Privacidad Integral se incluye la cláusula de **identificación a solicitud del titular de los datos**, que cierra cualquier objeción de transparencia.
 

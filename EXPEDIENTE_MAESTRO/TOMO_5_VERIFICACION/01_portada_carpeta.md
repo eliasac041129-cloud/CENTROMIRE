@@ -1,6 +1,6 @@
 # CARPETA DE VERIFICACIÓN SANITARIA
 
-## MIRË CENTRO DE BELLEZA INTEGRAL
+## MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO
 
 **Establecimiento de estética y belleza — servicios estéticos no invasivos**
 
