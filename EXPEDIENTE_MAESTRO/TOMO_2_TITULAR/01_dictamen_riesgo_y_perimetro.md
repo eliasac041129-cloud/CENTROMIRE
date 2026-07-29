@@ -15,7 +15,7 @@ Los demás tomos sí son mostrables. Este no.
 | Elemento | Situación |
 |---|---|
 | Figura legal | Persona física con actividad empresarial |
-| Aviso de Funcionamiento COFEPRIS | No. 2509135018X00286, giro SCIAN 812110, salones y clínicas de belleza |
+| Aviso de Funcionamiento COFEPRIS | No. 2609135018A00247, giro SCIAN 812110, salones y clínicas de belleza |
 | Lo que ese aviso permite | Servicios estéticos y de belleza **no invasivos** sobre piel intacta |
 | Lo que ese aviso **no** permite | Todo acto médico: inyecciones, punción, cirugía, diagnóstico, prescripción, manejo de heridas |
 | Responsable sanitario con cédula | **No existe** y, en el giro actual, **no se requiere** — precisamente porque no se prestan servicios médicos |

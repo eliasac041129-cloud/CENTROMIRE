@@ -1,62 +1,58 @@
 # CONVENIO DE COLABORACIÓN PARA CUIDADO ESTÉTICO NO INVASIVO
 
-**Nota de uso (no forma parte del convenio):** este es el único documento del expediente en el que **debe** asentarse el nombre completo de la titular, por ser parte contratante. Se imprime en dos ejemplares, uno para cada parte.
+**Dos ejemplares, uno por parte.** En la Ciudad de México, a ____ de __________________ de 20____, celebran este convenio:
 
----
+**EL ESTABLECIMIENTO.** La C. **MIRELY JIMÉNEZ REGALADO**, por su propio derecho, titular del establecimiento de estética y belleza **MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO**, Aviso de Funcionamiento COFEPRIS 2609135018A00247, giro SCIAN 812110, con domicilio en Avenida del Conscripto No. 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, CDMX, correo mirecbi19@gmail.com.
 
-En la Ciudad de México, a ____ de __________________ de 20____, comparecen:
-
-**I. LA C. MIRELY JIMÉNEZ REGALADO**, por su propio derecho, en su calidad de titular del establecimiento de estética y belleza que opera bajo el nombre comercial **MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO**, con Aviso de Funcionamiento COFEPRIS No. 2509135018X00286 (giro SCIAN 812110) y domicilio en Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, Ciudad de México, en adelante **EL ESTABLECIMIENTO**.
-
-**II. EL DR./LA DRA. ____________________________________________**, médico cirujano con Título Profesional y Cédula Profesional No. ____________, especialidad en ____________________ con Cédula de Especialidad No. ____________, con domicilio profesional en ______________________________________________ y RFC ______________, en adelante **EL MÉDICO**.
-
-Quienes se reconocen la capacidad legal necesaria y sujetan su colaboración a las siguientes cláusulas.
+**EL MÉDICO.** Dr./Dra. ______________________________________________, con Cédula Profesional No. ____________, especialidad en ____________________ y cédula de especialidad No. ____________, domicilio profesional ______________________________________________, RFC ______________, teléfono ______________, correo ______________________.
 
 ## DECLARACIONES
 
-**A. Declara EL ESTABLECIMIENTO:**
-1. Que es un establecimiento de **estética y belleza** y que su giro autorizado comprende **exclusivamente servicios estéticos no invasivos** de aplicación externa sobre piel intacta.
-2. Que **no cuenta con autorización para prestar servicios de atención médica** y que **no realiza ni realizará** procedimientos invasivos, inyecciones o infiltraciones de cualquier sustancia, punción, microneedling, cirugía, anestesia, manejo de heridas, suturas o drenajes, diagnóstico ni prescripción.
-3. Que su personal es **técnico en estética y cosmiatría**, no profesional de la salud, y que actúa siempre dentro de ese ámbito.
+**EL ESTABLECIMIENTO declara** que su giro comprende **exclusivamente servicios estéticos no invasivos** sobre piel intacta; que **no está autorizado para servicios de atención médica** y **no requiere responsable sanitario**; y que su personal es **técnico en estética y cosmiatría**.
 
-**B. Declara EL MÉDICO:**
-1. Que cuenta con **título y cédula profesional vigentes** que lo facultan para el ejercicio de la medicina, y que exhibe copia de ambos, la cual se anexa.
-2. Que ejerce en su propio consultorio o unidad médica, con sus propios expedientes clínicos conforme a la **NOM-004-SSA3-2012**, y que cuenta con **seguro de responsabilidad civil profesional vigente** (póliza No. ____________, aseguradora ______________, vigencia ____________).
-3. Que **es el único responsable** de la valoración, indicación, ejecución, evolución y complicaciones de los procedimientos médicos o quirúrgicos que practique a sus pacientes.
+**EL MÉDICO declara** que tiene **título y cédula vigentes** (anexa copia); que ejerce en su propia unidad con expediente clínico conforme a la **NOM-004-SSA3-2012**; que cuenta con **seguro de responsabilidad civil profesional** vigente, póliza ____________, aseguradora ______________, vigencia ____________; y que es el **único responsable** de la valoración, indicación, ejecución, evolución y complicaciones de sus procedimientos.
 
 ## CLÁUSULAS
 
-**PRIMERA. Objeto.** Establecer las bases para que EL ESTABLECIMIENTO preste, **por indicación escrita de EL MÉDICO**, servicios estéticos **no invasivos** de cuidado de la apariencia a pacientes de éste, en etapa posterior a un procedimiento médico o como preparación estética de la piel.
+**PRIMERA. Objeto.** EL ESTABLECIMIENTO prestará a pacientes de EL MÉDICO, **por indicación escrita de éste**, servicios estéticos **no invasivos** de cuidado de la apariencia, como preparación de la piel o cuidado posterior a un procedimiento médico.
 
-**SEGUNDA. Ámbito de EL ESTABLECIMIENTO.** Prestará únicamente, sobre **piel intacta y cerrada**: masaje estético y drenaje linfático estético, colocación y ajuste de prendas compresivas, aplicación externa de cosméticos, aparatología estética no invasiva y orientación de cuidado cosmético. Todo ello con finalidad **estética**, nunca terapéutica.
+**SEGUNDA. Alcance.** Únicamente, sobre **piel cerrada e intacta**: masaje y drenaje linfático estéticos, colocación y ajuste de prendas compresivas, aplicación externa de cosméticos indicados, aparatología estética no invasiva autorizada por nombre de equipo o técnica, y orientación de cuidado cosmético. Todo con finalidad **estética, nunca terapéutica**.
 
-**TERCERA. Exclusiones expresas.** EL ESTABLECIMIENTO **no realizará, ni aun por instrucción de EL MÉDICO**: (i) inyección o infiltración de cualquier sustancia por cualquier vía; (ii) punción, microneedling, cauterización, escisión o retiro de suturas; (iii) curación o manejo de heridas, drenajes, seromas, hematomas o dehiscencias; (iv) suministro o aplicación de medicamentos; (v) valoración de la evolución médica, alta o diagnóstico; (vi) modificación de lo indicado por EL MÉDICO. **EL MÉDICO reconoce que una instrucción en ese sentido no será acatada y que su emisión no genera responsabilidad para EL ESTABLECIMIENTO.**
+**TERCERA. Exclusiones absolutas.** EL ESTABLECIMIENTO **no realizará, ni aun por instrucción escrita de EL MÉDICO**: inyección o infiltración de cualquier sustancia por cualquier vía; punción, microneedling, cauterización, escisión o retiro de suturas; curación o manejo de heridas, drenajes, seromas, hematomas o dehiscencias; aplicación o suministro de medicamentos; valoración de la evolución quirúrgica, alta o diagnóstico; ni modificación de lo indicado. **EL MÉDICO reconoce que una instrucción en ese sentido no será acatada y que su emisión no genera responsabilidad para EL ESTABLECIMIENTO.**
 
-**CUARTA. Indicación médica escrita.** Ningún servicio se prestará sin **indicación previa, escrita, firmada y con cédula profesional** de EL MÉDICO, en el formato anexo o en documento equivalente, que precise: paciente, procedimiento practicado y fecha, servicio estético autorizado, zona, frecuencia, número de sesiones, restricciones y fecha de vigencia. La indicación verbal, telefónica o por mensajería **no surte efecto** para estos fines.
+**CUARTA. Indicación escrita.** Ningún servicio se presta sin indicación **previa, escrita, firmada y con cédula** de EL MÉDICO, en el formato anexo o documento equivalente, que precise paciente, procedimiento practicado y fecha, servicio autorizado, zona, número de sesiones, restricciones y vigencia. **La indicación verbal, telefónica o por mensajería no surte efecto.**
 
-**QUINTA. Suspensión por seguridad.** EL ESTABLECIMIENTO **suspenderá de inmediato** el servicio y remitirá al paciente con EL MÉDICO o a urgencias cuando advierta: herida abierta, sutura no retirada, secreción, mal olor, dolor intenso o creciente, fiebre, eritema que se extiende, endurecimiento nuevo, coloración anormal, entumecimiento o cualquier signo de alarma. Esta suspensión es una **obligación**, no un incumplimiento, y no genera responsabilidad ni penalidad.
+**QUINTA. Suspensión y aviso.** EL ESTABLECIMIENTO **suspenderá de inmediato** y remitirá al paciente con EL MÉDICO o a urgencias ante herida abierta, sutura pendiente, secreción, mal olor, dolor intenso o creciente, fiebre, eritema que se extiende, endurecimiento nuevo, coloración anormal o entumecimiento, y avisará el mismo día. Esta suspensión es **obligación, no incumplimiento**, y no genera responsabilidad ni penalidad.
 
-**SEXTA. Comunicación.** Las partes designan un medio único de comunicación escrita para dudas técnicas, cambios de indicación y avisos de signos de alarma. **Ninguna duda se resuelve por criterio propio de EL ESTABLECIMIENTO.**
-EL MÉDICO: ____________________________  EL ESTABLECIMIENTO: ____________________________
+**SEXTA. Responsabilidad.** La del **acto médico y su evolución es exclusiva y personal de EL MÉDICO**. La de EL ESTABLECIMIENTO se limita a la correcta ejecución técnica del servicio estético autorizado. Ninguna cláusula puede interpretarse como delegación de actos médicos, como supervisión médica de la operación de EL ESTABLECIMIENTO, ni como autorización para actuar fuera de su giro.
 
-**SÉPTIMA. Responsabilidad.** La responsabilidad por el acto médico —incluidos sus resultados y complicaciones— corresponde **exclusiva y personalmente a EL MÉDICO**. La responsabilidad de EL ESTABLECIMIENTO se limita a la correcta ejecución técnica del servicio estético no invasivo autorizado. Ninguna cláusula de este convenio puede interpretarse como delegación de actos médicos, como supervisión médica de la operación de EL ESTABLECIMIENTO, ni como autorización para que éste actúe fuera de su giro.
+**SÉPTIMA. Prohibición de simulación y publicidad.** Queda prohibido presentar o permitir que se perciba que EL ESTABLECIMIENTO presta servicios médicos, exhibir la cédula de EL MÉDICO como propia, o usar expresiones como "clínica médica" o "supervisión médica permanente". La publicidad de procedimientos médicos se difunde **a nombre, especialidad y cédula de EL MÉDICO**; la de EL ESTABLECIMIENTO, solo de servicios estéticos no invasivos, sin finalidad terapéutica ni resultados garantizados. Ninguna parte usa la marca o imagen de la otra sin autorización escrita.
 
-**OCTAVA. Prohibición de simulación.** Las partes se obligan a **no presentar, publicitar ni permitir que se perciba** que EL ESTABLECIMIENTO presta servicios médicos, ni que EL MÉDICO respalda, avala o supervisa procedimientos que EL ESTABLECIMIENTO no está facultado para realizar. Queda prohibido: exhibir la cédula de EL MÉDICO como si fuera del establecimiento, usar las expresiones "clínica médica", "supervisión médica permanente" o equivalentes en la publicidad de EL ESTABLECIMIENTO, y anunciar procedimientos médicos con la imagen o el nombre comercial de EL ESTABLECIMIENTO.
+**OCTAVA. Insumos y residuos.** EL MÉDICO no almacenará en EL ESTABLECIMIENTO medicamentos, sustancias inyectables, agujas, cánulas, jeringas ni residuos peligrosos biológico-infecciosos. Si atendiera en las instalaciones, será mediante **contrato específico** y llevará y retirará sus insumos y sus RPBI conforme a la **NOM-087-ECOL-SSA1-2002**.
 
-**NOVENA. Publicidad y atribución.** Toda publicidad de procedimientos médicos se difunde **a nombre, con especialidad y cédula de EL MÉDICO**. EL ESTABLECIMIENTO solo publicita servicios estéticos no invasivos, sin atribuirse finalidad terapéutica ni resultados garantizados. Ninguna parte usa la marca, nombre o imagen de la otra sin autorización escrita previa.
+**NOVENA. Datos personales y confidencialidad.** El intercambio de información se limita a lo **necesario para la seguridad** del paciente, previo su consentimiento, conforme a la LFPDPPP. Ambas partes guardan confidencialidad indefinida, aun terminado el convenio.
 
-**DÉCIMA. Insumos e instalaciones.** EL MÉDICO no almacenará en EL ESTABLECIMIENTO medicamentos, sustancias inyectables, agujas, cánulas, jeringas ni residuos peligrosos biológico-infecciosos. Cuando EL MÉDICO atienda en las instalaciones bajo un instrumento distinto, éste será **objeto de contrato específico** y EL MÉDICO llevará y retirará sus insumos y sus RPBI conforme a la **NOM-087-ECOL-SSA1-2002**, asumiendo íntegramente su manejo.
+**DÉCIMA. Contraprestaciones.** Cada parte cobra **directamente al paciente** lo que presta y emite su propio comprobante fiscal. **No existe comisión, participación ni reparto de ingresos por acto médico.** Cualquier pago por uso de espacio será **fijo**, constará en contrato independiente y será ajeno al número o tipo de procedimientos.
 
-**DÉCIMA PRIMERA. Datos personales.** El intercambio de información sobre pacientes se limita a lo **necesario para la seguridad** del servicio, previo consentimiento del paciente, conforme a la LFPDPPP. Ambas partes guardan confidencialidad indefinida, aun después de terminado el convenio.
+**DÉCIMA PRIMERA. Vigencia.** Un año a partir de la firma, prorrogable por escrito. Cualquiera de las partes puede terminarlo **en cualquier momento, sin responsabilidad, con aviso escrito**. Termina de inmediato, sin declaración judicial, por incumplimiento de las cláusulas TERCERA, SÉPTIMA u OCTAVA.
 
-**DÉCIMA SEGUNDA. Contraprestaciones.** Cada parte cobra **directamente al paciente** los servicios que presta y emite su propio comprobante fiscal. **No existe** comisión, participación ni reparto de ingresos por acto médico. Cualquier contraprestación por uso de espacio será fija, constará en contrato independiente y será ajena al número o tipo de procedimientos médicos realizados.
+**DÉCIMA SEGUNDA. Ley aplicable.** Ley General de Salud y sus reglamentos, LFPDPPP y Código Civil de la Ciudad de México, cuyos tribunales serán competentes, con renuncia a cualquier otro fuero.
 
-**DÉCIMA TERCERA. Vigencia y terminación.** Vigencia de un año a partir de la firma, prorrogable por escrito. Cualquiera de las partes puede darlo por terminado **en cualquier momento, sin responsabilidad, con aviso por escrito**. Terminará de inmediato, sin necesidad de declaración judicial, si una parte incumple las cláusulas TERCERA, OCTAVA o DÉCIMA.
+<table class="firmas"><tr><td>_______________________________________<br><b>EL ESTABLECIMIENTO</b><br>C. Mirely Jiménez Regalado, titular</td><td>_______________________________________<br><b>EL MÉDICO</b><br>Nombre, firma y cédula profesional</td></tr><tr><td colspan="2">Anexos: ☐ título y cédula ☐ identificación oficial ☐ póliza de responsabilidad civil ☐ formato de indicación médica</td></tr></table>
 
-**DÉCIMA CUARTA. Ley aplicable.** Se rige por la Ley General de Salud y sus reglamentos, la LFPDPPP y el Código Civil aplicable en la Ciudad de México, cuyos tribunales serán competentes, renunciando a cualquier otro fuero.
+## VERIFICACIÓN DE DOCUMENTOS DEL MÉDICO (lo llena Mirë antes de firmar)
 
-Leído el convenio y sabedoras las partes de su contenido y alcance, lo firman por duplicado.
+Sin esta verificación no se firma el convenio ni se recibe la primera referencia.
 
-<table class="firmas"><tr><td><b>EL ESTABLECIMIENTO</b><br><br>_______________________________________<br>C. Mirely Jiménez Regalado<br>Titular de Mirë Centro de Belleza Integral y Diseño</td><td><b>EL MÉDICO</b><br><br>_______________________________________<br>Nombre, firma y cédula profesional</td></tr></table>
+| Documento | Recibido | Verificado en | Fecha | Verificó |
+|---|:--:|---|---|---|
+| Título profesional | ☐ | — | | |
+| Cédula profesional | ☐ | Registro Nacional de Profesionistas (cedulaprofesional.sep.gob.mx) | | |
+| Cédula de especialidad | ☐ | Registro Nacional de Profesionistas | | |
+| Identificación oficial | ☐ | — | | |
+| Póliza de responsabilidad civil profesional vigente | ☐ | Carátula de póliza | | |
+| Aviso o licencia sanitaria de su consultorio, si aplica | ☐ | Acuse | | |
 
-**Anexos:** ☐ Copia de título y cédula profesional ☐ Copia de identificación oficial ☐ Carátula de póliza de responsabilidad civil profesional ☐ Formato de indicación médica
+**Bandera roja.** Si el médico propone que el personal aplique y él "supervise a distancia", o pide dejar producto inyectable en el local, **no se firma**: esa propuesta traslada toda la responsabilidad penal a la titular. Se registra el rechazo aquí y se informa a la titular.
+
+Observaciones: ______________________________________________________________________

@@ -10,7 +10,7 @@ Estimado(a) doctor(a): para que la colaboración se dé con seguridad para su pa
 
 ## 1. QUÉ ES MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO
 
-Establecimiento de **estética y belleza** con Aviso de Funcionamiento COFEPRIS No. 2509135018X00286, giro SCIAN 812110. Nuestro personal es **técnico en estética y cosmiatría**: no somos personal de salud y **no operamos como unidad médica**.
+Establecimiento de **estética y belleza** con Aviso de Funcionamiento COFEPRIS No. 2609135018A00247, giro SCIAN 812110. Nuestro personal es **técnico en estética y cosmiatría**: no somos personal de salud y **no operamos como unidad médica**.
 
 ## 2. QUÉ SÍ PRESTAMOS (sobre piel intacta y cerrada, por indicación escrita)
 

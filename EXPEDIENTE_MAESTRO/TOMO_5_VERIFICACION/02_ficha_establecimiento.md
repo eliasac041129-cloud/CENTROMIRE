@@ -7,7 +7,7 @@
 | Nombre comercial | MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO |
 | Titular (persona física) | C. Mirely Jiménez Regalado |
 | RFC | |
-| Aviso de Funcionamiento COFEPRIS | 2509135018X00286 |
+| Aviso de Funcionamiento COFEPRIS | 2609135018A00247 |
 | Fecha del aviso | |
 | Giro / actividad | SCIAN 812110 — Salones y clínicas de belleza y peluquerías |
 | Domicilio del establecimiento | Avenida del Conscripto No. 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, CDMX |
@@ -16,7 +16,7 @@
 | Horario de operación | |
 | Número de personas que laboran | |
 | Correo oficial para notificaciones | mirecbi19@gmail.com |
-| Teléfono del establecimiento | 56 1681 8058 |
+| Teléfono del establecimiento | 55 1691 8058 |
 
 ## 2. SERVICIOS QUE SE PRESTAN (lista declarada)
 
@@ -60,7 +60,7 @@ El personal es **técnico en estética y cosmiatría**; **no hay personal que ej
 
 | Documento | Número / folio | Vigencia | Anexo en carpeta |
 |---|---|---|---|
-| Aviso de Funcionamiento COFEPRIS | 2509135018X00286 | | ☐ |
+| Aviso de Funcionamiento COFEPRIS | 2609135018A00247 | | ☐ |
 | Constancia de situación fiscal | | | ☐ |
 | Identificación oficial de la titular | | | ☐ |
 | Contrato de arrendamiento o propiedad | | | ☐ |
