@@ -4,7 +4,7 @@
 
 **Ciudad de México, a ____ de __________________ de 20____.**
 
-Yo, **_______________________________________________________**, mayor de edad, con identificación oficial No. ____________________, en mi calidad de ☐ empleada ☐ colaboradora independiente ☐ persona en capacitación, manifiesto bajo protesta de decir verdad y me obligo en los términos siguientes ante **MIRË CENTRO DE BELLEZA INTEGRAL** (**EL ESTABLECIMIENTO**).
+Yo, **_______________________________________________________**, mayor de edad, con identificación oficial No. ____________________, en mi calidad de ☐ empleada ☐ colaboradora independiente ☐ persona en capacitación, manifiesto bajo protesta de decir verdad y me obligo en los términos siguientes ante **MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO** (**EL ESTABLECIMIENTO**).
 
 ## PRIMERA. RECIBÍ Y COMPRENDÍ
 

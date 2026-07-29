@@ -1,16 +1,16 @@
 # CARPETA DE VERIFICACIÓN SANITARIA
 
-## MIRË CENTRO DE BELLEZA INTEGRAL
+## MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO
 
 **Establecimiento de estética y belleza — servicios estéticos no invasivos**
 
 | | |
 |---|---|
-| **Aviso de Funcionamiento COFEPRIS** | 2509135018X00286 |
+| **Aviso de Funcionamiento COFEPRIS** | 2609135018A00247 |
 | **Giro** | SCIAN 812110 — Salones y clínicas de belleza y peluquerías |
 | **Domicilio** | Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, Ciudad de México |
 | **Titular** | C. Mirely Jiménez Regalado |
-| **Contacto oficial** | mirecbi19@gmail.com · 56 1681 8058 |
+| **Contacto oficial** | mirecbi19@gmail.com · 55 1691 8058 |
 | **Fecha de integración de esta carpeta** | ____/____/20____ |
 
 ---

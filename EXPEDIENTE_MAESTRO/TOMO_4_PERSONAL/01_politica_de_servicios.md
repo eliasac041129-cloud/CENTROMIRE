@@ -4,7 +4,7 @@
 
 ## 1. QUÉ SOMOS Y QUÉ NO SOMOS
 
-Mirë es un **establecimiento de estética y belleza** (giro SCIAN 812110, Aviso de Funcionamiento COFEPRIS 2509135018X00286). **No somos consultorio, clínica médica ni unidad de atención médica.** Nadie aquí está facultado para realizar actos médicos.
+Mirë es un **establecimiento de estética y belleza** (giro SCIAN 812110, Aviso de Funcionamiento COFEPRIS 2609135018A00247). **No somos consultorio, clínica médica ni unidad de atención médica.** Nadie aquí está facultado para realizar actos médicos.
 
 Nuestro personal es **técnico en estética y cosmiatría**. Esa es la calificación que se usa al presentarse. No se usan las palabras "doctora", "enfermera", "paciente", "tratamiento médico", "diagnóstico" ni "consulta".
 

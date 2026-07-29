@@ -3,7 +3,7 @@
 ## ESTABLECIMIENTO DE ESTÉTICA Y BELLEZA
 ### SERVICIOS ESTÉTICOS NO INVASIVOS
 
-**MIRË CENTRO DE BELLEZA INTEGRAL**<br>Aviso de Funcionamiento COFEPRIS No. 2509135018X00286<br>Giro: salones y clínicas de belleza (SCIAN 812110)
+**MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO**<br>Aviso de Funcionamiento COFEPRIS No. 2609135018A00247<br>Giro: salones y clínicas de belleza (SCIAN 812110)
 
 ---
 
@@ -40,4 +40,4 @@ Los resultados de los servicios estéticos **varían en cada persona** y depende
 ---
 
 **Su seguridad está antes que cualquier servicio.**
-Cualquier duda, pregunte en recepción o escríbanos: **mirecbi19@gmail.com · 56 1681 8058**
+Cualquier duda, pregunte en recepción o escríbanos: **mirecbi19@gmail.com · 55 1691 8058**

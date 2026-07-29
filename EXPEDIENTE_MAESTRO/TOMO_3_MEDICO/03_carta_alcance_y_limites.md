@@ -8,9 +8,9 @@
 
 Estimado(a) doctor(a): para que la colaboración se dé con seguridad para su paciente y con claridad de responsabilidades, le informamos con precisión qué podemos y qué no podemos hacer.
 
-## 1. QUÉ ES MIRË CENTRO DE BELLEZA INTEGRAL
+## 1. QUÉ ES MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO
 
-Establecimiento de **estética y belleza** con Aviso de Funcionamiento COFEPRIS No. 2509135018X00286, giro SCIAN 812110. Nuestro personal es **técnico en estética y cosmiatría**: no somos personal de salud y **no operamos como unidad médica**.
+Establecimiento de **estética y belleza** con Aviso de Funcionamiento COFEPRIS No. 2609135018A00247, giro SCIAN 812110. Nuestro personal es **técnico en estética y cosmiatría**: no somos personal de salud y **no operamos como unidad médica**.
 
 ## 2. QUÉ SÍ PRESTAMOS (sobre piel intacta y cerrada, por indicación escrita)
 
@@ -40,4 +40,4 @@ Su paciente recibe el cuidado estético dentro de un perímetro **claro, documen
 
 Atentamente,
 
-<table class="firmas"><tr><td><b>MIRË CENTRO DE BELLEZA INTEGRAL</b><br><br>_______________________________________<br>La Titular del Establecimiento</td><td><b>ACUSE (opcional)</b><br>Recibí y quedé enterado(a) del alcance y límites descritos.<br><br>_______________________________________<br>Nombre, firma y cédula · Fecha ____/____/20____</td></tr></table>
+<table class="firmas"><tr><td><b>MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO</b><br><br>_______________________________________<br>La Titular del Establecimiento</td><td><b>ACUSE (opcional)</b><br>Recibí y quedé enterado(a) del alcance y límites descritos.<br><br>_______________________________________<br>Nombre, firma y cédula · Fecha ____/____/20____</td></tr></table>

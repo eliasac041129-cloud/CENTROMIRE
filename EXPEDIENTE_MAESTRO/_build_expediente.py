@@ -18,7 +18,7 @@ from weasyprint import HTML
 BASE = Path(__file__).resolve().parent
 OUT = BASE / "PDF"
 
-ESTABLECIMIENTO = "MIRË CENTRO DE BELLEZA INTEGRAL"
+ESTABLECIMIENTO = "MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO"
 
 # ---------------------------------------------------------------- metadatos
 
@@ -34,6 +34,20 @@ TOMOS = [
         "destinatario": "Titular del establecimiento",
         "reservado": True,
         "uso": "Documento de control. Se conserva con la titular. No circula.",
+        "base_font": "10pt",
+    },
+    {
+        "dir": None,
+        "file": "TOMO_6_AVISOS_PUBLICO/05_aviso_privacidad_integral.md",
+        "pdf": "AVISO_PRIVACIDAD_INTEGRAL.pdf",
+        "label": "Aviso de privacidad integral",
+        "titulo": "AVISO DE PRIVACIDAD INTEGRAL",
+        "destinatario": "Recepción, para consulta del cliente",
+        "reservado": False,
+        "portada": False,
+        "impresion": "Imprimir y conservar en recepción, en funda o portafolio, para consulta de "
+        "quien lo solicite. Se entrega copia al cliente que la pida.",
+        "hoja_por_doc": False,
         "base_font": "10pt",
     },
     {
@@ -152,11 +166,11 @@ CSS_TMPL = """
   @top-left {{
     content: "{establecimiento}";
     font-family: "Liberation Serif", serif; font-size: 7pt;
-    color: #000; padding-bottom: 1pt;
+    color: #8C6A11; padding-bottom: 1pt;
   }}
   @top-right {{
     content: "{label}";
-    font-family: "Liberation Serif", serif; font-size: 7pt; color: #000;
+    font-family: "Liberation Serif", serif; font-size: 7pt; color: #8C6A11;
   }}
   @bottom-left {{
     content: "{pie}";
@@ -173,7 +187,7 @@ CSS_TMPL = """
    se aclare hasta desaparecer. Texto, casillas y bordes de tabla siguen en
    negro: son lo que se llena a mano y lo que se fotocopia. */
 * {{ box-sizing: border-box; }}
-body, td, th, li, p, h1, h2, h3, blockquote, div, span {{ color: #000; }}
+body, td, li, p, h3, blockquote, div, span {{ color: #000; }}
 
 html {{ font-family: "Liberation Serif", "DejaVu Serif", serif; }}
 body {{
@@ -192,7 +206,7 @@ body {{
   border-bottom: 1.4pt solid #8C6A11; padding-bottom: 2pt; margin-bottom: 6pt;
 }}
 .portada h1 {{
-  font-size: 13pt; line-height: 1.18; margin: 0 0 4pt 0; text-transform: uppercase;
+  font-size: 13pt; line-height: 1.18; margin: 0 0 4pt 0; text-transform: uppercase; color: #6E520C;
   border: 0; padding: 0; white-space: pre-line; text-align: left;
 }}
 .portada .datos {{ font-size: 8pt; line-height: 1.3; margin: 0 0 5pt 0; }}
@@ -216,10 +230,11 @@ body {{
 h1 {{
   font-size: 11.5pt; text-transform: uppercase; text-align: center; margin: 0 0 6pt 0;
   padding-bottom: 3pt; border-bottom: 1.2pt solid #8C6A11; line-height: 1.2;
+  color: #6E520C;
   page-break-after: avoid;
 }}
 h2 {{
-  font-size: 9.5pt; text-transform: uppercase; margin: 8pt 0 3pt 0;
+  font-size: 9.5pt; text-transform: uppercase; margin: 8pt 0 3pt 0; color: #6E520C;
   border-bottom: .6pt solid #8C6A11; padding-bottom: 1pt; page-break-after: avoid;
 }}
 h3 {{ font-size: 9.5pt; margin: 6pt 0 2pt 0; page-break-after: avoid; }}
@@ -242,7 +257,7 @@ th, td {{
   border: .5pt solid #000; padding: 2pt 3pt; text-align: left;
   vertical-align: top; line-height: 1.2;
 }}
-th {{ font-weight: bold; text-transform: uppercase; font-size: 7.5pt; }}
+th {{ font-weight: bold; text-transform: uppercase; font-size: 7.5pt; color: #6E520C; }}
 td.v {{ height: 12pt; }}
 
 /* tablas de datos: etiqueta angosta y espacio de llenado parejo */
@@ -419,9 +434,9 @@ def portada(tomo, files) -> str:
   <div class="datos">
     <b>Destinatario:</b> {esc(tomo['destinatario'])}.
     <b>Establecimiento:</b> estética y belleza, Aviso de Funcionamiento COFEPRIS
-    No. 2509135018X00286 (SCIAN 812110), Av. del Conscripto 13, Col. Manuel Ávila
+    No. 2609135018A00247 (SCIAN 812110), Av. del Conscripto 13, Col. Manuel Ávila
     Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, CDMX. Contacto:
-    mirecbi19@gmail.com · 56 1681 8058.
+    mirecbi19@gmail.com · 55 1691 8058.
     <b>Perímetro de operación:</b> servicios estéticos NO INVASIVOS sobre piel intacta;
     no se realizan actos médicos, procedimientos invasivos ni inyectables.
     <b>Emisión:</b> ____/____/20____.

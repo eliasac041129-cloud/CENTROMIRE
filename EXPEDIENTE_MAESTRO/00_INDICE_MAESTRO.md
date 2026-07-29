@@ -1,8 +1,8 @@
-# EXPEDIENTE MAESTRO DE CUMPLIMIENTO — MIRË CENTRO DE BELLEZA INTEGRAL
+# EXPEDIENTE MAESTRO DE CUMPLIMIENTO — MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO
 
-**Establecimiento:** MIRË CENTRO DE BELLEZA INTEGRAL
+**Establecimiento:** MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO
 **Giro autorizado:** SCIAN 812110 — Salones y clínicas de belleza y peluquerías
-**Aviso de Funcionamiento COFEPRIS:** 2509135018X00286
+**Aviso de Funcionamiento COFEPRIS:** 2609135018A00247
 **Domicilio:** Av. del Conscripto 13, Col. Manuel Ávila Camacho, C.P. 11610, Alcaldía Miguel Hidalgo, Ciudad de México
 **Versión:** 2.0 — reestructurada por destinatario
 **Documento de control interno. No se entrega a clientes ni a terceros.**
@@ -26,16 +26,17 @@ Seis tomos. Cada tomo es **un solo PDF continuo, en blanco y negro, listo para i
 
 ### 1.1 Instrucciones de impresión (ahorro de papel)
 
-Los formatos están compuestos para gastar el mínimo de hojas: sin páginas de portada en los tomos de tiraje repetido, sin espacios muertos y con los documentos corriendo uno tras otro, separados por una línea de corte visible. Cada documento conserva su título y su folio, de modo que sigue siendo un instrumento identificable aunque comparta hoja con otro.
+Compuestos para gastar el mínimo de hojas: sin portadas en los tomos de tiraje repetido, sin espacios muertos y con los documentos corriendo uno tras otro, separados por una línea de corte. Cada documento conserva título y folio, así que sigue siendo identificable aunque comparta hoja.
 
 | Tomo | Págs. | Cómo imprimirlo | Hojas |
 |---|---|---|---|
-| 1 · Cliente | 5 | **Doble cara.** Juego base: **páginas 1 y 2**, una sola hoja por cliente. Control de sesiones: página 3, solo si habrá varias sesiones. Anexo A: página 4, solo si viene de cirugía. Anexo B: página 5, solo si autoriza imagen | **1** base |
+| 1 · Cliente | 5 | **Doble cara.** Juego base: **páginas 1 y 2**, una hoja por cliente. Control de sesiones: página 3, solo si habrá varias sesiones. Anexo A: página 4, solo si viene de cirugía. Anexo B: página 5, solo si autoriza imagen | **1** base |
 | 2 · Titular | 8 | Doble cara | 4 |
-| 3 · Médico | 5 | Doble cara. Cada instrumento inicia hoja: convenio por duplicado, indicación médica por paciente, carta suelta | 3 |
-| 4 · Personal | 11 | Doble cara. Solo el protocolo de urgencias inicia hoja, porque se fija a la vista en el área de servicio | 6 |
+| 3 · Médico | 4 | Doble cara. Convenio con su verificación de cédulas, indicación médica por paciente y carta de alcance | 2 |
+| 4 · Personal | 11 | Doble cara. Solo el protocolo de urgencias inicia hoja, porque se fija en el área de servicio | 6 |
 | 5 · Verificación | 10 | Doble cara. Inventario y bitácoras inician hoja, porque se reemplazan cada mes | 5 |
-| 6 · Avisos al público | 7 | **Una cara**, un aviso por hoja. El aviso de privacidad integral se conserva en recepción para consulta | 7 |
+| 6 · Avisos al público | 7 | **Una cara**, un aviso por hoja | 7 |
+| Aviso de privacidad integral | 2 | PDF suelto: se imprime una vez y se deja en recepción | 1 |
 
 **El costo recurrente es el Tomo 1:** una hoja por cliente. Imprimirlo en tiros de 30 o 50, foliado a mano, y tener copias sueltas del control de sesiones y de los dos anexos. Al editar cualquier documento, regenerar con `python3 _build_expediente.py`: avisa si una página quedó con más de 20% de espacio muerto al pie.
 
@@ -46,7 +47,7 @@ Los formatos están compuestos para gastar el mínimo de hojas: sin páginas de 
 La instrucción es que **la titularidad del negocio no se difunda** salvo donde sea necesaria. Así se implementa en este expediente:
 
 ### 2.1 Documentos donde NO se imprime el nombre de la titular
-Cliente, personal y público. En ellos el sujeto obligado se identifica como **"MIRË CENTRO DE BELLEZA INTEGRAL"** (nombre comercial del establecimiento), con domicilio, correo y número de Aviso de Funcionamiento. Quien firma lo hace como **"la Titular del Establecimiento"** o **"quien atiende"**, sin asentar el nombre en el cuerpo impreso.
+Cliente, personal y público. En ellos el sujeto obligado se identifica como **"MIRË CENTRO DE BELLEZA INTEGRAL Y DISEÑO"** (nombre comercial del establecimiento), con domicilio, correo y número de Aviso de Funcionamiento. Quien firma lo hace como **"la Titular del Establecimiento"** o **"quien atiende"**, sin asentar el nombre en el cuerpo impreso.
 
 Sustento: la LFPDPPP exige identificar al **responsable** y su domicilio, no exhibir su nombre de nacimiento; el nombre comercial del establecimiento, más domicilio y medio de contacto, es identificación suficiente y verificable. En el Aviso de Privacidad Integral se incluye la cláusula de **identificación a solicitud del titular de los datos**, que cierra cualquier objeción de transparencia.
 
