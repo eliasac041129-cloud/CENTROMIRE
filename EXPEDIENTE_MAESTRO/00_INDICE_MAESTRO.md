@@ -26,7 +26,7 @@ Seis tomos. Cada tomo es **un solo PDF continuo, en blanco y negro, listo para i
 
 ### 1.1 Instrucciones de impresión (ahorro de papel)
 
-Compuestos para gastar el mínimo de hojas: sin portadas en los tomos de tiraje repetido, sin espacios muertos y con los documentos corriendo uno tras otro, separados por una línea de corte. Cada documento conserva título y folio, así que sigue siendo identificable aunque comparta hoja.
+Compuestos para gastar el mínimo de hojas: sin portadas en los tomos de tiraje repetido y con los documentos uno tras otro, separados por línea de corte. Cada uno conserva título y folio, así que sigue siendo identificable aunque comparta hoja.
 
 | Tomo | Págs. | Cómo imprimirlo | Hojas |
 |---|---|---|---|
@@ -38,7 +38,9 @@ Compuestos para gastar el mínimo de hojas: sin portadas en los tomos de tiraje 
 | 6 · Avisos al público | 7 | **Una cara**, un aviso por hoja | 7 |
 | Aviso de privacidad integral | 2 | PDF suelto: se imprime una vez y se deja en recepción | 1 |
 
-**El costo recurrente es el Tomo 1:** una hoja por cliente. Imprimirlo en tiros de 30 o 50, foliado a mano, y tener copias sueltas del control de sesiones y de los dos anexos. Al editar cualquier documento, regenerar con `python3 _build_expediente.py`: avisa si una página quedó con más de 20% de espacio muerto al pie.
+**Versiones editables.** Cada tomo existe también en Word, en `EXPEDIENTE_MAESTRO/WORD/`, generado desde la misma fuente. Los documentos de hoja horizontal van en archivo aparte. **Si editas el Word, el cambio no regresa al PDF:** hazlo en el archivo fuente y regenera.
+
+**El costo recurrente es el Tomo 1:** una hoja por cliente. Imprímelo en tiros de 30 o 50, foliado a mano, con copias sueltas del control de sesiones y de los anexos. Al editar cualquier documento, regenerar con `python3 _build_expediente.py`: avisa si una página quedó con más de 20% de espacio muerto al pie.
 
 ---
 
@@ -68,20 +70,14 @@ La reserva de titularidad es **comercial y reputacional, no defensiva**. Frente 
 - El personal **no comenta quién es la dueña** ni la estructura del negocio con clientes o terceros (Tomo 4, carta de confidencialidad).
 
 ### 2.4 Medida que sí blinda la reserva de titularidad
-Si el objetivo es que el negocio deje de estar atado al nombre personal, la vía real es **constituir persona moral** (S.A.S. o S. de R.L. de C.V.) y migrar a ella el aviso sanitario, los contratos y la facturación. A partir de ese momento el sujeto visible es la sociedad y la persona física aparece solo en el acta constitutiva y en registros societarios. Esto se analiza en el Tomo 2, apartado de protección patrimonial. Mientras opere como persona física, la reserva será siempre parcial.
+Para desatar el negocio del nombre personal, la vía real es **constituir persona moral** y migrarle el aviso sanitario, los contratos y la facturación: el sujeto visible pasa a ser la sociedad. Se analiza en el Tomo 2. Mientras opere como persona física, la reserva es siempre parcial.
 
 ---
 
 ## 3. REGLA DE ORO DEL EXPEDIENTE
 
-Este expediente no sirve para aparentar cumplimiento: sirve para **sostener que la operación real coincide con el giro autorizado**. Un documento que contradice lo que ocurre en el establecimiento no protege, **acusa**: se convierte en prueba fechada y firmada en contra. Antes de usar el Tomo 1 con clientes, deben estar ejecutadas las acciones críticas del Tomo 2, apartado 4.
+No sirve para aparentar cumplimiento, sino para **sostener que la operación real coincide con el giro autorizado**. Un documento que contradice lo que pasa en el establecimiento no protege: **acusa**, porque es prueba fechada y firmada en contra.
 
----
+## 4. RESGUARDO
 
-## 4. CONTROL DE VERSIONES Y RESGUARDO
-
-| Tomo | 1 | 2 | 3 | 4 | 5 | 6 |
-|---|---|---|---|---|---|---|
-| Última revisión y quién | | | | | | |
-
-**Resguardo:** las hojas firmadas del Tomo 1 y el Tomo 2 contienen datos sensibles y estrategia legal: bajo llave, con acceso exclusivo de la titular. Copias digitales en carpeta con contraseña; **no en galerías de teléfono ni en chats de WhatsApp.**
+Las hojas firmadas del Tomo 1 y el Tomo 2 contienen datos sensibles y estrategia legal: **bajo llave, con acceso exclusivo de la titular**. Copias digitales en carpeta con contraseña, **nunca en galerías de teléfono ni en chats**. Última revisión del expediente: ____/____/20____ por ______________________.
