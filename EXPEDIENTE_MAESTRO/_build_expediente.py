@@ -126,6 +126,7 @@ TOMOS = [
         "impresion": "Imprimir a doble cara. El inventario y las bitacoras inician hoja porque se reproducen y se reemplazan cada mes.",
         "hoja_por_doc": False,
         "hoja_nueva": ["04_inventario.md", "05_bitacoras.md"],
+        "horizontal": ["05_bitacoras.md"],
         "label": "Tomo 5 · Carpeta de verificación",
         "titulo": "TOMO 5\nCARPETA DE VERIFICACIÓN SANITARIA",
         "destinatario": "Autoridad, en visita de verificación",
@@ -186,6 +187,8 @@ CSS_TMPL = """
    densidad para que, impreso en blanco y negro, siga leyendose como regla y no
    se aclare hasta desaparecer. Texto, casillas y bordes de tabla siguen en
    negro: son lo que se llena a mano y lo que se fotocopia. */
+@page apaisado {{ size: Letter landscape; }}
+
 * {{ box-sizing: border-box; }}
 body, td, li, p, h3, blockquote, div, span {{ color: #000; }}
 
@@ -224,6 +227,11 @@ body {{
 .portada .legal {{ font-size: 7pt; line-height: 1.25; }}
 
 /* ---- documentos ---- */
+.apaisado {{ page: apaisado; }}
+.apaisado .salto {{ break-before: page; }}
+.apaisado table {{ font-size: 8pt; }}
+.apaisado td.v {{ height: 15pt; }}
+
 .doc.nueva {{ page-break-before: always; }}
 .doc.sigue {{ border-top: 1.2pt solid #8C6A11; padding-top: 7pt; margin-top: 10pt; }}
 
@@ -462,6 +470,8 @@ def build_pdf(tomo):
     for i, p in enumerate(files):
         nueva = i > 0 and (tomo.get("hoja_por_doc") or p.name in forzadas)
         cls = "doc nueva" if nueva else ("doc sigue" if i > 0 else "doc")
+        if p.name in tomo.get("horizontal", []):
+            cls += " apaisado"
         partes.append(f"<div class='{cls}'>{md_to_html(p)}</div>")
     cuerpo = "".join(partes)
 
@@ -498,12 +508,16 @@ def blancos(pdf: Path, umbral=20):
     doc = pdfium.PdfDocument(str(pdf))
     fuera = []
     for i in range(len(doc)):
-        gris = np.array(doc[i].render(scale=0.6).to_pil().convert("L"))
+        pagina = doc[i]
+        apaisada = pagina.get_width() > pagina.get_height()
+        gris = np.array(pagina.render(scale=0.6).to_pil().convert("L"))
         alto = gris.shape[0]
         pie = int(alto * 0.94)  # zona de encabezado y pie de pagina
         tinta = [r for r in np.where((gris < 160).any(axis=1))[0] if r < pie]
         pct = round((pie - (max(tinta) if tinta else 0)) / alto * 100)
-        if pct > umbral:
+        # en hoja horizontal el area util es mas ancha y menos alta: el mismo
+        # sobrante en puntos representa un porcentaje mayor del alto
+        if pct > (umbral + 15 if apaisada else umbral):
             fuera.append((i + 1, pct))
     return len(doc), fuera
 
