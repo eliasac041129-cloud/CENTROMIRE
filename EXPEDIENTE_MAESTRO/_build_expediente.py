@@ -10,6 +10,7 @@ Salida: EXPEDIENTE_MAESTRO/PDF/*.pdf
 
 import re
 import shutil
+import subprocess
 from pathlib import Path
 
 import markdown
@@ -312,6 +313,86 @@ body.cartel li {{ margin-bottom: 3pt; }}
 body.cartel .portada h1 {{ font-size: 13pt; }}
 """
 
+# ---------------------------------------------------------------- word
+
+DOCX = BASE / "WORD"
+REF_V = BASE / "_plantilla_vertical.docx"
+REF_H = BASE / "_plantilla_horizontal.docx"
+
+SALTO_DOCX = (
+    "\n\n```{=openxml}\n"
+    '<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n'
+    "```\n\n"
+)
+
+
+def _tabla_html_a_markdown(m: re.Match) -> str:
+    """Las tablas escritas en HTML se reescriben como tabla de markdown.
+
+    Word no recibe HTML crudo: si no se convierten, los bloques de firma y las
+    tablas de datos desaparecerian del documento editable.
+    """
+    html = m.group(0)
+    filas = re.findall(r"<tr>(.*?)</tr>", html, flags=re.S)
+    tabla = []
+    for fila in filas:
+        celdas = re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", fila, flags=re.S)
+        limpias = []
+        for c in celdas:
+            c = re.sub(r"<br\s*/?>", " · ", c)
+            c = re.sub(r"<[^>]+>", "", c).strip()
+            limpias.append(c.replace("|", "/"))
+        if limpias:
+            tabla.append(limpias)
+    if not tabla:
+        return ""
+    ancho = max(len(f) for f in tabla)
+    tabla = [f + [""] * (ancho - len(f)) for f in tabla]
+    encabezado = "| " + " | ".join(tabla[0]) + " |"
+    sep = "|" + "|".join(["---"] * ancho) + "|"
+    cuerpo = ["| " + " | ".join(f) + " |" for f in tabla[1:]]
+    return "\n".join([encabezado, sep] + cuerpo)
+
+
+def md_para_docx(path: Path) -> str:
+    texto = path.read_text(encoding="utf-8")
+    texto = re.sub(r"<table.*?</table>", _tabla_html_a_markdown, texto, flags=re.S)
+    texto = texto.replace('<div class="salto"></div>', SALTO_DOCX)
+    texto = re.sub(r"<br\s*/?>", "  \n", texto)
+    return texto
+
+
+def build_docx(tomo):
+    """Un .docx por tomo. Los documentos apaisados van en archivo aparte,
+    porque Word maneja la orientacion por seccion y conviene no mezclarlas."""
+    if tomo["dir"] is None:
+        archivos = [BASE / tomo["file"]]
+    else:
+        archivos = sorted((BASE / tomo["dir"]).glob("*.md"))
+
+    horizontales = tomo.get("horizontal", [])
+    grupos = [
+        ([f for f in archivos if f.name not in horizontales], REF_V, ""),
+        ([f for f in archivos if f.name in horizontales], REF_H, "_HOJA_HORIZONTAL"),
+    ]
+    salidas = []
+    for grupo, plantilla, sufijo in grupos:
+        if not grupo:
+            continue
+        fuente = SALTO_DOCX.join(md_para_docx(f) for f in grupo)
+        destino = DOCX / (tomo["pdf"].replace(".pdf", "") + sufijo + ".docx")
+        tmp = DOCX / "_fuente.md"
+        tmp.write_text(fuente, encoding="utf-8")
+        subprocess.run(
+            ["pandoc", str(tmp), "-o", str(destino),
+             f"--reference-doc={plantilla}", "-f", "markdown+pipe_tables+raw_attribute"],
+            check=True,
+        )
+        tmp.unlink()
+        salidas.append(destino)
+    return salidas
+
+
 # ---------------------------------------------------------------- utilidades
 
 MD_EXT = ["tables", "attr_list", "sane_lists", "md_in_html"]
@@ -524,9 +605,10 @@ def blancos(pdf: Path, umbral=20):
 
 
 def main():
-    if OUT.exists():
-        shutil.rmtree(OUT)
-    OUT.mkdir(parents=True)
+    for carpeta in (OUT, DOCX):
+        if carpeta.exists():
+            shutil.rmtree(carpeta)
+        carpeta.mkdir(parents=True)
 
     total = 0
     for tomo in TOMOS:
@@ -540,7 +622,9 @@ def main():
             silencio = not tomo.get("revisar_blancos", True)
             aviso = "" if silencio or not fuera else f"  REVISAR espacio muerto: {fuera}"
             extra = f"{paginas:3d} pag{aviso}"
+        word = ", ".join(w.name for w in build_docx(tomo))
         print(f"{dest.name:40s} {n:2d} doc(s)  {extra}")
+        print(f"{'  -> ' + word:40s}")
     if total:
         print(f"{'TOTAL':40s} {total:3d} paginas")
 
