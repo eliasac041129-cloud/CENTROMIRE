@@ -32,7 +32,6 @@ Se anota **todo** evento relevante: reacción adversa, suspensión, servicio neg
 | | | | ☐ Sí ☐ No | |
 | | | | ☐ Sí ☐ No | |
 | | | | ☐ Sí ☐ No | |
-| | | | ☐ Sí ☐ No | |
 
 **Por qué se registran las negativas.** Cada solicitud de un servicio invasivo o inyectable que se documenta como **negada y derivada** construye la evidencia de que EL ESTABLECIMIENTO opera dentro de su giro. Es el registro que más protege a la titular en una verificación o en una queja. No registrarlas desperdicia la mejor prueba disponible.
 

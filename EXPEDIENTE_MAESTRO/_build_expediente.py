@@ -54,6 +54,7 @@ TOMOS = [
         "dir": "TOMO_1_CLIENTE",
         "pdf": "TOMO_1_CLIENTE.pdf",
         "portada": False,
+        "horizontal": ["03_control_de_sesiones.md"],
         "impresion": "Imprimir A DOBLE CARA. Juego base: paginas 1 y 2, una sola hoja por cliente. "
         "Control de sesiones: pagina 3, solo si habra varias sesiones. Anexo A: pagina 4, solo si "
         "viene de un procedimiento medico. Anexo B: pagina 5, solo si autoriza el uso de su imagen.",
@@ -126,7 +127,7 @@ TOMOS = [
         "impresion": "Imprimir a doble cara. El inventario y las bitacoras inician hoja porque se reproducen y se reemplazan cada mes.",
         "hoja_por_doc": False,
         "hoja_nueva": ["04_inventario.md", "05_bitacoras.md"],
-        "horizontal": ["05_bitacoras.md"],
+        "horizontal": ["04_inventario.md", "05_bitacoras.md"],
         "label": "Tomo 5 · Carpeta de verificación",
         "titulo": "TOMO 5\nCARPETA DE VERIFICACIÓN SANITARIA",
         "destinatario": "Autoridad, en visita de verificación",
