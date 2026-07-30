@@ -30,11 +30,11 @@ Compuestos para gastar el mínimo de hojas: sin portadas en los tomos de tiraje 
 
 | Tomo | Págs. | Cómo imprimirlo | Hojas |
 |---|---|---|---|
-| 1 · Cliente | 5 | **Doble cara.** Juego base: **páginas 1 y 2**, una hoja por cliente. Control de sesiones: página 3, solo si habrá varias sesiones. Anexo A: página 4, solo si viene de cirugía. Anexo B: página 5, solo si autoriza imagen | **1** base |
+| 1 · Cliente | 5 | **Doble cara.** Juego base: **páginas 1 y 2**, una hoja por cliente. Control de sesiones: página 3, **horizontal**, solo si habrá varias sesiones. Anexo A: página 4, solo si viene de cirugía. Anexo B: página 5, solo si autoriza imagen | **1** base |
 | 2 · Titular | 8 | Doble cara | 4 |
 | 3 · Médico | 4 | Doble cara. Convenio con su verificación de cédulas, indicación médica por paciente y carta de alcance | 2 |
 | 4 · Personal | 11 | Doble cara. Solo el protocolo de urgencias inicia hoja, porque se fija en el área de servicio | 6 |
-| 5 · Verificación | 10 | Doble cara. Inventario y bitácoras inician hoja, porque se reemplazan cada mes | 5 |
+| 5 · Verificación | 20 | Doble cara. Inventario y bitácoras van en **hoja horizontal**, una tabla por hoja, y se reemplazan cada mes | 10 |
 | 6 · Avisos al público | 7 | **Una cara**, un aviso por hoja | 7 |
 | Aviso de privacidad integral | 2 | PDF suelto: se imprime una vez y se deja en recepción | 1 |
 
